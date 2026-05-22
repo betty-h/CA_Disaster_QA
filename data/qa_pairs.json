@@ -1,0 +1,2144 @@
+[
+  {
+    "question": "is asbestos testing required before they tear down my house",
+    "answer": "Yes. Before any structural debris removal, an asbestos inspection is required by California air quality regulations. Under the state program, this is handled for you. If you're going the private route, you must hire a certified asbestos consultant and notify your local Air Quality Management District before demolition begins.",
+    "topic": "Debris and hazardous material removal",
+    "tier": "tier_2_high_volume",
+    "style": "terse"
+  },
+  {
+    "question": "my mom is 84 and uses a wheelchair her house burned can fema help with accessibility stuff",
+    "answer": "Yes. FEMA's Individuals and Households Program (IHP) can cover disaster-related accessibility needs — like ramps, grab bars, or other modifications — even if those features weren't in the home before, if they're now needed because of the disaster. When applying, make sure to list her functional needs and disability so FEMA flags the case for additional support. Call the FEMA Helpline at 1-800-621-3362 and ask about Serious Needs Assistance and accessibility-related repairs. You can also request a home inspector who can accommodate her needs.",
+    "topic": "Seniors and people with disabilities — special assistance",
+    "tier": "tier_4_long_tail",
+    "style": "personal_context"
+  },
+  {
+    "question": "can sba loan be used for upgrades or just repairs",
+    "answer": "SBA disaster loans generally can't be used to upgrade or add to your home — only to restore it to pre-disaster condition (unless local code requires the upgrade). However, you can request up to a 20% increase above verified damage to pay for mitigation improvements that reduce risk of future disaster damage, like fire-resistant roofing or defensible space.",
+    "topic": "SBA disaster loans for homeowners and businesses",
+    "tier": "tier_2_high_volume",
+    "style": "terse"
+  },
+  {
+    "question": "can i get my utility bill reduced or paused after a disaster",
+    "answer": "Yes. California utilities offer emergency disaster relief that can include bill payment extensions, waived deposits, reconnection fee waivers, and rebuilding support. Call your utility directly to request disaster relief, and check the CPUC Consumer Support page (cpuc.ca.gov/consumer-support). Low-income customers may also qualify for CARE or FERA discount programs.",
+    "topic": "Power/utility restoration and outage reporting",
+    "tier": "tier_2_high_volume",
+    "style": "grammatical"
+  },
+  {
+    "question": "Does a federal disaster have to be declared before I can apply?",
+    "answer": "For FEMA Individual Assistance and SBA disaster loans, yes — a federal or SBA disaster declaration for your county is required. Check current declarations at fema.gov/disasters or sba.gov/disaster. Even without a declaration, you may qualify for state aid, insurance, or nonprofit help — dial 211 to find local resources.",
+    "topic": "How to apply for disaster aid (eligibility, deadlines)",
+    "tier": "tier_1_critical",
+    "style": "grammatical"
+  },
+  {
+    "question": "I'm a renter in a flooded apartment in San Jose and my landlord has insurance on the building — does that cover my stuff?",
+    "answer": "No. Your landlord's flood policy only covers the building, not your personal belongings. Renters need their own NFIP contents-only policy to be covered for flood damage to furniture, electronics, and clothing. Since you don't have one for this event, apply to FEMA at DisasterAssistance.gov or 1-800-621-3362 — they may help with uninsured personal property losses if your area is in a declared disaster.",
+    "topic": "Flood insurance and NFIP claims",
+    "tier": "tier_3_moderate",
+    "style": "personal_context"
+  },
+  {
+    "question": "will my kid still graduate if they missed weeks of school because of the fires",
+    "answer": "California law protects displaced students — districts must waive coursework students couldn't complete due to the disaster and accept partial credit. Seniors on track to graduate at their original school must be allowed to graduate even if they transfer. Talk to your child's school counselor or the district's homeless liaison to make a plan.",
+    "topic": "School closures and re-opening",
+    "tier": "tier_3_moderate",
+    "style": "grammatical"
+  },
+  {
+    "question": "hi um i've been having really bad nightmares ever since we evacuated and i can't sleep and i keep thinking the fire is coming back is something wrong with me",
+    "answer": "Nothing is wrong with you — nightmares, hypervigilance, and trouble sleeping are very common after a disaster and often improve with time and support. Call or text the Disaster Distress Helpline at 1-800-985-5990 (24/7, free, multilingual) to talk with a trained counselor. FEMA also funds a Crisis Counseling Program in declared disaster areas — ask your local county behavioral health office, or dial 211 to be connected to free local services.",
+    "topic": "Mental health and emotional support after a disaster",
+    "tier": "tier_3_moderate",
+    "style": "conversational"
+  },
+  {
+    "question": "i missed the fema inspector when they came by what happens now",
+    "answer": "Call FEMA at 1-800-621-3362 as soon as possible to reschedule. If you miss the inspection and don't reschedule, your application may be denied. Inspectors usually call to set up a time — make sure FEMA has your current phone number in your DisasterAssistance.gov account.",
+    "topic": "FEMA registration and individual assistance",
+    "tier": "tier_1_critical",
+    "style": "follow_up"
+  },
+  {
+    "question": "Do I need to remove the dead trees on my property too or is that separate?",
+    "answer": "Hazard tree removal is often included in the state debris removal program, but only for trees deemed a threat to the right-of-way or public areas — criteria vary by disaster. Trees that pose no public hazard are usually the homeowner's responsibility. Ask your county debris program coordinator for the specific hazard tree assessment process in your area.",
+    "topic": "Debris and hazardous material removal",
+    "tier": "tier_2_high_volume",
+    "style": "grammatical"
+  },
+  {
+    "question": "can i apply for fema and sba at the same time",
+    "answer": "Yes, and you should. Register with FEMA first at DisasterAssistance.gov or 1-800-621-3362. FEMA will often refer you to SBA — complete that SBA application at sba.gov/disaster even if you don't want a loan, because it can qualify you for additional FEMA grant money for personal property and transportation.",
+    "topic": "How to apply for disaster aid (eligibility, deadlines)",
+    "tier": "tier_1_critical",
+    "style": "terse"
+  },
+  {
+    "question": "what if i already filed a workers comp claim but never heard back",
+    "answer": "If you filed a DWC-1 and haven't gotten a response, the insurer has 90 days to accept or deny — silence past that means the claim is presumed accepted. Contact the claims administrator directly first, then reach out to the state's Information & Assistance Unit at 1-800-736-7401 for free help. You can also request a free consultation from a workers' comp attorney; most don't charge unless they win.",
+    "topic": "Workers' comp and job protection during evacuation",
+    "tier": "tier_4_long_tail",
+    "style": "follow_up"
+  },
+  {
+    "question": "are fema payments and insurance money taxable income",
+    "answer": "FEMA disaster assistance grants are generally NOT taxable. Qualified wildfire relief payments under the federal Wildfire Relief Act are also excluded from income for 2020–2025. Insurance payouts for your home/property usually aren't taxable unless they exceed your cost basis (a \"gain\"), and even then you can often defer it by rebuilding. See the IRS Wildfire Relief Payments FAQ at irs.gov for specifics.",
+    "topic": "Tax filing extensions and disaster tax relief",
+    "tier": "tier_2_high_volume",
+    "style": "typo"
+  },
+  {
+    "question": "I rent my apartment, does FEMA help renters too or only homeowners?",
+    "answer": "Yes, renters are eligible. FEMA can help with temporary housing, replacement of essential personal property (furniture, clothing, appliances), medical/dental, transportation, and other disaster-related expenses. Apply the same way at DisasterAssistance.gov or 1-800-621-3362, and have your lease or proof of occupancy ready.",
+    "topic": "FEMA registration and individual assistance",
+    "tier": "tier_1_critical",
+    "style": "personal_context"
+  },
+  {
+    "question": "can undocumented workers get dua",
+    "answer": "DUA generally requires you to be authorized to work in the U.S., so undocumented workers usually don't qualify. However, you may still get help from other sources — local nonprofits, mutual aid funds, the Red Cross (1-800-733-2767), and some California state programs don't require immigration status. Call 211 to find local assistance available regardless of status.",
+    "topic": "Disaster unemployment assistance (DUA)",
+    "tier": "tier_1_critical",
+    "style": "terse"
+  },
+  {
+    "question": "i lost my drivers license and passport in the fire how do i replace them",
+    "answer": "For your California driver's license, contact the DMV at 1-800-777-0133 — after declared disasters they often waive replacement fees. For a passport, contact the State Department at travel.state.gov or 1-877-487-2778. Social Security cards can be replaced free at ssa.gov or 1-800-772-1213, and a Disaster Recovery Center can often help you get multiple replacement documents in one visit.",
+    "topic": "Wildfire-specific recovery steps",
+    "tier": "tier_2_high_volume",
+    "style": "typo"
+  },
+  {
+    "question": "my landlord says the apartment is red tagged what does that mean",
+    "answer": "A red tag means the building was inspected and deemed unsafe to enter or occupy due to earthquake damage. You cannot live there until repairs are made and it's re-inspected. As a renter, you may be eligible for FEMA rental assistance if a federal disaster is declared (apply at DisasterAssistance.gov or 1-800-621-3362). Call 211 for emergency shelter, and contact a legal aid office about getting your security deposit and prorated rent back — try LawHelpCA.org.",
+    "topic": "Earthquake-specific recovery steps",
+    "tier": "tier_2_high_volume",
+    "style": "personal_context"
+  },
+  {
+    "question": "do i have to file with my insurance before fema",
+    "answer": "Yes, you should file with your insurance first because FEMA cannot duplicate benefits insurance covers. But don't wait for the insurance decision to register with FEMA — apply right away at DisasterAssistance.gov or 1-800-621-3362, and send FEMA your insurance settlement or denial letter when you get it.",
+    "topic": "FEMA registration and individual assistance",
+    "tier": "tier_1_critical",
+    "style": "terse"
+  },
+  {
+    "question": "My mom is 78 and not great with computers, can someone help her apply for FEMA in person?",
+    "answer": "Absolutely. She can visit a local Disaster Recovery Center (DRC) where FEMA staff will help her apply in person — find the nearest one at fema.gov/drc or by calling 1-800-621-3362. She can also call that number to apply by phone (TTY 1-800-462-7585). You can also apply on her behalf if she gives written authorization.",
+    "topic": "FEMA registration and individual assistance",
+    "tier": "tier_1_critical",
+    "style": "personal_context"
+  },
+  {
+    "question": "im undocumented can i still get food help after the disaster",
+    "answer": "Yes. Food banks and most disaster food distributions do not ask about immigration status — anyone can receive free food. While regular CalFresh has citizenship requirements for adults, your U.S. citizen or eligible-immigrant children can still get CalFresh without affecting your status. The California Food Assistance Program (CFAP) also covers some immigrants not eligible for federal SNAP. Using food banks or disaster food aid is not considered a public charge issue.",
+    "topic": "Food and water assistance (CalFresh, food banks)",
+    "tier": "tier_2_high_volume",
+    "style": "personal_context"
+  },
+  {
+    "question": "what if i dont agree with the denial",
+    "answer": "You have the right to appeal. Request the denial in writing with the specific policy language cited, then submit a written appeal with supporting documents (estimates, photos, expert opinions). If the insurer still won't budge, file a Request for Assistance with the California Department of Insurance at 1-800-927-4357 or insurance.ca.gov — they investigate disputes for free. You can also consult a disaster insurance attorney; many work on contingency for large claims.",
+    "topic": "Filing insurance claims after a disaster",
+    "tier": "tier_1_critical",
+    "style": "follow_up"
+  },
+  {
+    "question": "My husband and I own a small farm stand in Sonoma and we lost everything plus our home. Can we apply for both a home loan and a business loan from SBA?",
+    "answer": "Yes — you can apply for both. File a Home and Personal Property Loan (up to $500K for the home, $100K for belongings) AND a Business Physical Disaster Loan plus EIDL for the farm stand (up to $2 million combined). They're separate applications but you can submit them together at sba.gov/disaster. A Disaster Recovery Center can help you file both in one visit.",
+    "topic": "SBA disaster loans for homeowners and businesses",
+    "tier": "tier_2_high_volume",
+    "style": "personal_context"
+  },
+  {
+    "question": "What kind of documentation should I gather before applying for disaster assistance?",
+    "answer": "Take photos and videos of all damage before cleaning up, and make a written list of damaged or destroyed items. Gather your ID, Social Security number, proof of address (utility bill, lease), proof of homeownership (deed, tax records, mortgage statement), insurance policy info, and bank account info for direct deposit. If documents were destroyed, FEMA and the DMV can help you replace them.",
+    "topic": "Wildfire-specific recovery steps",
+    "tier": "tier_2_high_volume",
+    "style": "grammatical"
+  },
+  {
+    "question": "how do i get calfresh after the fire",
+    "answer": "You can apply for CalFresh online at GetCalFresh.org or BenefitsCal.com, by calling your county social services office, or by dialing 2-1-1. After a federally declared disaster, you may also qualify for Disaster CalFresh (D-CalFresh), which has expanded eligibility and faster processing. Benefits are loaded onto an EBT card you can use at most grocery stores and farmers markets.",
+    "topic": "Food and water assistance (CalFresh, food banks)",
+    "tier": "tier_2_high_volume",
+    "style": "terse"
+  },
+  {
+    "question": "hi so my grandfather is 79 he doesnt use computers and his hearing is bad how is he supposed to apply for any of this fema stuff",
+    "answer": "He has options that don't require a computer. He can call the FEMA Helpline at 1-800-621-3362 — they have TTY and can connect through video relay or captioned telephone services if he gives them his relay number. Even better, you or another trusted person can apply on his behalf if he authorizes it, or you can take him to a Disaster Recovery Center where staff will walk him through it in person and provide assistive listening devices. To find the nearest center, text DRC and his ZIP code to 43362.",
+    "topic": "Seniors and people with disabilities — special assistance",
+    "tier": "tier_4_long_tail",
+    "style": "conversational"
+  },
+  {
+    "question": "I'm a housekeeper and my employer's house burned down, do I qualify for workers comp or unemployment? I got hurt helping them pack before we evacuated",
+    "answer": "You may have two options. If you were injured on the job (even during evacuation prep), you can file a workers' compensation claim — domestic workers are covered in many situations. Report the injury to your employer in writing and file a DWC-1 form. For lost wages because the home/job is gone, apply for Disaster Unemployment Assistance (DUA) through EDD at edd.ca.gov once a federal disaster is declared. Call 211 if you need help navigating both.",
+    "topic": "Workers' comp and job protection during evacuation",
+    "tier": "tier_4_long_tail",
+    "style": "personal_context"
+  },
+  {
+    "question": "I run a small bakery in Sonoma and we've had no internet for a week so we can't process card payments — is there any disaster help for that?",
+    "answer": "Yes — small businesses affected by communications outages and other disaster impacts can apply for low-interest SBA Economic Injury Disaster Loans (EIDL), which cover lost revenue and operating expenses. Apply at sba.gov/disaster or call 1-800-659-2955. Also contact your internet provider about disaster credits, and file a complaint with the CPUC (cpuc.ca.gov/consumer-support) if service restoration is delayed. Your local Small Business Development Center (americassbdc.org) can also help you navigate recovery options.",
+    "topic": "Internet, phone, and communications outages",
+    "tier": "tier_4_long_tail",
+    "style": "personal_context"
+  },
+  {
+    "question": "i applyed for fema housing help 2 weeks ago and havnt heard anything",
+    "answer": "Log in to your account at DisasterAssistance.gov or call FEMA at 1-800-621-3362 to check your status — they can tell you if they need more documents, an inspection, or an insurance decision letter. Missing paperwork is the most common cause of delay. If you've been denied or need urgent shelter in the meantime, call 211 for local emergency housing.",
+    "topic": "Temporary housing and shelters",
+    "tier": "tier_1_critical",
+    "style": "typo"
+  },
+  {
+    "question": "Hi, my house burned down in the fire and a guy just showed up at my property saying he can start debris removal tomorrow for cash. Should I hire him?",
+    "answer": "Please be very cautious — this is a classic post-disaster scam pattern. Door-to-door solicitors demanding cash and offering to start immediately are often unlicensed. Before hiring anyone, verify their license at cslb.ca.gov, get a written contract, and never pay more than 10% or $1,000 down (whichever is less). You can also report suspicious contractors to CSLB's Disaster Help Center.",
+    "topic": "Contractor licensing and avoiding post-disaster fraud",
+    "tier": "tier_3_moderate",
+    "style": "conversational"
+  },
+  {
+    "question": "do i have to look for work while getting dua",
+    "answer": "Yes, generally you must be able and available to work and accept suitable work if offered, just like regular UI. However, if the disaster makes work search unreasonable (your area is destroyed, you're displaced, etc.), EDD may waive or adjust that requirement. Report honestly on your biweekly certifications and explain your situation.",
+    "topic": "Disaster unemployment assistance (DUA)",
+    "tier": "tier_1_critical",
+    "style": "terse"
+  },
+  {
+    "question": "My mom is 78 and doesn't use computers. She lost her ID and birth certificate in the evacuation. How can she replace them without going online?",
+    "answer": "She has options that don't require a computer. For her driver's license/ID, she can walk into any DMV office — call 1-800-777-0133 to get the nearest location and ask about disaster fee waivers. For her birth certificate, she can visit or mail a request to the county recorder where she was born, or call CA Vital Records at 916-445-2684. A local Disaster Recovery Center (find one at 1-800-621-3362) can also help her in person with FEMA and document replacement referrals.",
+    "topic": "Document replacement (ID, birth certificate, DMV)",
+    "tier": "tier_2_high_volume",
+    "style": "personal_context"
+  },
+  {
+    "question": "do i have to make a list of everything i lost",
+    "answer": "Yes, your insurer will ask for a personal property inventory, but you don't have to do it from memory alone. Walk through your home room by room (or use photos/videos you have), check old receipts, Amazon and credit card history, and social media photos to reconstruct what you owned. Include brand, age, and estimated replacement cost. Take your time — insurers must give you a reasonable period, and California extends this for declared disasters.",
+    "topic": "Filing insurance claims after a disaster",
+    "tier": "tier_1_critical",
+    "style": "terse"
+  },
+  {
+    "question": "hi so our house burned in the eaton fire and honestly i have no idea where to even start with insurance, can you walk me through it?",
+    "answer": "So sorry you're going through this. First, call your homeowners insurance company's claims line (it's on your policy or their website) to open a claim and get a claim number. Ask specifically about Additional Living Expenses (ALE) — that covers hotels, rentals, food, and pet boarding while you're displaced, and many insurers will advance you funds right away. Then document everything you can remember owning (photos, receipts, even credit card statements help) and save every receipt going forward. If you hit problems, the California Department of Insurance can help at 1-800-927-4357.",
+    "topic": "Filing insurance claims after a disaster",
+    "tier": "tier_1_critical",
+    "style": "conversational"
+  },
+  {
+    "question": "What is Disaster CalFresh and how is it different from regular CalFresh?",
+    "answer": "Disaster CalFresh (D-CalFresh or D-SNAP) is a temporary food benefit program activated after a federally declared disaster. It has higher income limits than regular CalFresh and counts disaster expenses like home repairs, evacuation costs, and lost income. Benefits are usually one month of food assistance on an EBT card. It's only available during a specific application window announced by CDSS, so check cdss.ca.gov or call 2-1-1 for current openings.",
+    "topic": "Food and water assistance (CalFresh, food banks)",
+    "tier": "tier_2_high_volume",
+    "style": "grammatical"
+  },
+  {
+    "question": "How long do I have to wait before my first SBA disaster loan payment is due?",
+    "answer": "SBA disaster loans defer your first payment for 12 months from the date of the note, and interest does not accrue during that deferment period. This gives you time to focus on recovery before repayment begins. You can manage your loan and check status through the MySBA Loan Portal.",
+    "topic": "SBA disaster loans for homeowners and businesses",
+    "tier": "tier_2_high_volume",
+    "style": "grammatical"
+  },
+  {
+    "question": "lost policy in fire how do i find insurance info",
+    "answer": "Call your insurance agent or the company directly — they can look you up by name and address. If you don't remember the company, check your mortgage lender (they're listed as a payee), bank statements for premium payments, or your email for renewal notices. The California Department of Insurance can also help locate your policy at 1-800-927-4357.",
+    "topic": "Filing insurance claims after a disaster",
+    "tier": "tier_1_critical",
+    "style": "terse"
+  },
+  {
+    "question": "where do i register for fema",
+    "answer": "You can register for FEMA assistance online at DisasterAssistance.gov, by calling 1-800-621-3362, or by visiting a Disaster Recovery Center in person. Have your Social Security number, insurance info, and damage description ready when you apply.",
+    "topic": "FEMA registration and individual assistance",
+    "tier": "tier_1_critical",
+    "style": "terse"
+  },
+  {
+    "question": "what if i already filed but never heard back",
+    "answer": "Log into your account at DisasterAssistance.gov to check your status, or call the FEMA Helpline at 1-800-621-3362. Make sure FEMA has your current phone number and address — missed inspection calls are a common reason for delays. Decisions are usually issued within about 10 days after your home inspection.",
+    "topic": "FEMA registration and individual assistance",
+    "tier": "tier_1_critical",
+    "style": "follow_up"
+  },
+  {
+    "question": "i'm 72 and live alone, my basement flooded and i can't do the cleanup myself, is there anyone who can help with the mold?",
+    "answer": "You don't have to do this alone. Call 211 to be connected with local disaster case management and volunteer cleanup groups — organizations like Crisis Cleanup (1-844-965-1386), Team Rubicon, and Samaritan's Purse often provide free muck-out and mold cleanup for older adults and people with disabilities after disasters. Also apply for FEMA assistance at 1-800-621-3362 — Clean and Sanitize funds may help cover professional remediation.",
+    "topic": "Mold remediation guidance",
+    "tier": "tier_4_long_tail",
+    "style": "personal_context"
+  },
+  {
+    "question": "How do I get a replacement birth certificate in California after a wildfire?",
+    "answer": "You can request a certified copy of a California birth certificate from the CA Department of Public Health Vital Records (cdph.ca.gov) or from the county recorder's office where you were born — the county is usually faster. Fees may be waived if you're a disaster survivor in a declared area; ask the county recorder. You'll need to fill out a sworn statement and provide some form of ID, but counties can often work with you if your ID was also destroyed.",
+    "topic": "Document replacement (ID, birth certificate, DMV)",
+    "tier": "tier_2_high_volume",
+    "style": "grammatical"
+  },
+  {
+    "question": "What is the deadline to apply for FEMA assistance after a disaster?",
+    "answer": "The standard deadline to register for FEMA Individual Assistance is 60 days after the disaster is declared, though FEMA sometimes extends it. Check the exact deadline for your disaster at DisasterAssistance.gov or call 1-800-621-3362. Don't wait — apply as soon as possible even if you're still gathering documents.",
+    "topic": "How to apply for disaster aid (eligibility, deadlines)",
+    "tier": "tier_1_critical",
+    "style": "grammatical"
+  },
+  {
+    "question": "what should be in a contract with a contractor for rebuilding",
+    "answer": "A California home improvement contract must be in writing and include: the contractor's name, address, and license number; a detailed scope of work and materials; total price and payment schedule; start and completion dates; a 3-day right to cancel; and down payment no more than 10% or $1,000 (whichever is less). Never sign a blank contract or pay in full upfront. CSLB's 'Terms of Agreement' consumer guide at cslb.ca.gov has a full checklist.",
+    "topic": "Contractor licensing and avoiding post-disaster fraud",
+    "tier": "tier_3_moderate",
+    "style": "grammatical"
+  },
+  {
+    "question": "Can I get FEMA help if I already have flood insurance?",
+    "answer": "Yes, but FEMA assistance is secondary to insurance — they won't duplicate benefits. File your NFIP claim first, then apply to FEMA at DisasterAssistance.gov or 1-800-621-3362. FEMA may help with needs your flood policy doesn't cover (like additional living expenses if you lack ALE coverage) or provide gap assistance if your settlement is delayed. Send FEMA your insurance settlement documents once you have them.",
+    "topic": "Flood insurance and NFIP claims",
+    "tier": "tier_3_moderate",
+    "style": "grammatical"
+  },
+  {
+    "question": "is the disater distres hotline really free",
+    "answer": "Yes — the SAMHSA Disaster Distress Helpline (1-800-985-5990) is 100% free, confidential, and available 24/7/365. You can call or text, and interpreters are available in over 100 languages. They won't ask for your name, insurance, or immigration status.",
+    "topic": "Mental health and emotional support after a disaster",
+    "tier": "tier_3_moderate",
+    "style": "typo"
+  },
+  {
+    "question": "Does FEMA cover veterinary bills if my pet was injured in the wildfire?",
+    "answer": "FEMA's Individuals and Households Program generally does not cover veterinary expenses for pets. However, organizations like RedRover Relief, the ASPCA, and the California Veterinary Medical Association's Disaster Relief Fund offer grants for emergency vet care after disasters. Your local Humane Society or Animal Services may also provide free or low-cost treatment for disaster-affected pets — call 2-1-1 for referrals.",
+    "topic": "Pet-friendly shelters and veterinary assistance",
+    "tier": "tier_4_long_tail",
+    "style": "grammatical"
+  },
+  {
+    "question": "do i need to apply for the irs extension",
+    "answer": "No — the IRS applies disaster relief automatically based on the address on your most recent tax return. If you moved into the disaster area after filing, or your records were located there, call 1-866-562-5227 to request relief manually.",
+    "topic": "Tax filing extensions and disaster tax relief",
+    "tier": "tier_2_high_volume",
+    "style": "terse"
+  },
+  {
+    "question": "my 6 year old wont stop crying about the fire what do i do",
+    "answer": "It's very common for young kids to have strong reactions after a disaster. Keep routines as normal as possible, give extra hugs and reassurance, limit news/social media exposure, and let them talk or draw about their feelings. For free 24/7 support, call the SAMHSA Disaster Distress Helpline at 1-800-985-5990 (they help parents too, and have counselors who can guide you). If symptoms last more than a few weeks, contact your pediatrician.",
+    "topic": "Emotional support for children after a disaster",
+    "tier": "tier_4_long_tail",
+    "style": "terse"
+  },
+  {
+    "question": "Hi, my house flooded about 2 weeks ago during the storms and now I'm seeing black spots on the walls and it smells musty, I have two little kids and I'm worried about their health, what should I do?",
+    "answer": "Your concern is valid — mold can trigger asthma and allergies, especially in children. Keep your kids out of affected rooms until cleanup is done. For areas larger than about 10 square feet, hire a professional mold remediation contractor. Smaller areas can be cleaned with detergent and water (don't mix bleach with ammonia). FEMA's 'Clean and Sanitize' assistance under Other Needs Assistance may cover some costs — apply at DisasterAssistance.gov or 1-800-621-3362. Call 211 for local health resources.",
+    "topic": "Mold remediation guidance",
+    "tier": "tier_4_long_tail",
+    "style": "conversational"
+  },
+  {
+    "question": "what about school meals if school is closed",
+    "answer": "Many districts continue free meal distribution at alternate sites during closures — check your district's website or call them directly. You can also call 211 to find emergency food resources and meal sites near you. If the disaster qualifies, families may also receive D-SNAP (Disaster CalFresh) benefits to replace school meals.",
+    "topic": "School closures and re-opening",
+    "tier": "tier_3_moderate",
+    "style": "follow_up"
+  },
+  {
+    "question": "How does SBA decide how much I can borrow for my business?",
+    "answer": "SBA reviews verified physical damage (buildings, equipment, inventory) and your ability to repay based on credit and cash flow. Businesses can borrow up to $2 million combined for physical damage and economic injury. Insurance proceeds are deducted from the eligible amount, and you may get up to a 20% increase for mitigation improvements.",
+    "topic": "SBA disaster loans for homeowners and businesses",
+    "tier": "tier_2_high_volume",
+    "style": "grammatical"
+  },
+  {
+    "question": "where can i bord my horses durring the evacuaton",
+    "answer": "Many California counties open large-animal evacuation sites at fairgrounds during wildfires and floods — for example, Pierce College, Industry Hills, and county fairgrounds are commonly used in Southern CA. Call your county Animal Services or 2-1-1 for the current large-animal shelter location. Groups like the Humane Society Equine Rescue and local CART (County Animal Response Team) volunteers can also help with transport if you can't move the horses yourself.",
+    "topic": "Pet-friendly shelters and veterinary assistance",
+    "tier": "tier_4_long_tail",
+    "style": "typo"
+  },
+  {
+    "question": "my boss is making us come in even though theres a evacuation warning is that leagal",
+    "answer": "You have the right to refuse work you reasonably believe is unsafe under California Labor Code 6311, and Cal/OSHA's wildfire smoke standard (section 5141.1) requires employers to protect workers when AQI exceeds 151. Your employer cannot retaliate against you for refusing unsafe work or for evacuating under a mandatory order. Report violations to Cal/OSHA at 1-833-579-0927 or file a retaliation complaint with the Labor Commissioner.",
+    "topic": "Workers' comp and job protection during evacuation",
+    "tier": "tier_4_long_tail",
+    "style": "typo"
+  },
+  {
+    "question": "how do i no if my house is safe to go back in after earthqauke",
+    "answer": "Wait for local officials or your city's building department to inspect and clear the area. Look for warning signs: cracks in the foundation, leaning walls, a damaged chimney, broken gas lines, or doors/windows that won't close. If you smell gas, hear hissing, or see downed power lines, leave immediately and call 911 or your utility. Many California cities run free post-quake safety assessment programs — call 211 to find one near you.",
+    "topic": "Earthquake-specific recovery steps",
+    "tier": "tier_2_high_volume",
+    "style": "typo"
+  },
+  {
+    "question": "do nonprofits qualify for sba disaster loans",
+    "answer": "Yes, most private nonprofit organizations located in a declared disaster area are eligible for SBA Economic Injury Disaster Loans (EIDL) and Physical Disaster Loans. The same terms apply — up to $2 million combined, payments deferred 12 months, and interest capped at 4% (lower for nonprofits in many cases). Apply at sba.gov/disaster or call 800-659-2955.",
+    "topic": "Small business recovery",
+    "tier": "tier_3_moderate",
+    "style": "terse"
+  },
+  {
+    "question": "what if i already filed but never heard back",
+    "answer": "Call FEMA at 1-800-621-3362 with your registration number ready, or log in at DisasterAssistance.gov to see your status and any pending document requests. Often the application is waiting on your insurance settlement letter or an inspection. If you're still without housing, call 211 for emergency shelter help while you wait.",
+    "topic": "Temporary housing and shelters",
+    "tier": "tier_1_critical",
+    "style": "follow_up"
+  },
+  {
+    "question": "I already filed a Notice of Loss with FSA weeks ago for my flooded strawberry fields but haven't heard anything back, what should I do?",
+    "answer": "Call your local FSA county office directly and ask for a status update on your Notice of Loss and which program application (NAP, ELAP, or Emergency Loan) it's tied to. Processing can be slow after major disasters, so ask if they need any additional documentation like production records, receipts, or photos. If you can't get a response, you can contact the California FSA state office or your USDA Service Center supervisor. Keep written notes of every call and the names of staff you speak with.",
+    "topic": "Agricultural disaster relief for farmers",
+    "tier": "tier_4_long_tail",
+    "style": "follow_up"
+  },
+  {
+    "question": "gas smell after earthquake",
+    "answer": "Leave the building immediately — don't use light switches, phones, or anything that could spark. Once outside and safely away, call 911 and your gas utility (PG&E: 1-800-743-5000; SoCalGas: 1-800-427-2200). If you know how, shut off gas at the meter using a wrench (quarter turn). Do not turn it back on yourself — only the utility can safely restore service.",
+    "topic": "Earthquake-specific recovery steps",
+    "tier": "tier_2_high_volume",
+    "style": "terse"
+  },
+  {
+    "question": "can i get fired for evacuating from the fire",
+    "answer": "California law generally protects workers who evacuate due to a declared emergency. Labor Code 1102 and 6311 prohibit retaliation against employees who refuse to work in unsafe conditions, and Governor's emergency proclamations often include job protections. If you were fired for evacuating, file a retaliation complaint with the CA Labor Commissioner at 833-526-4636 or file with Cal/OSHA if it was a safety issue.",
+    "topic": "Workers' comp and job protection during evacuation",
+    "tier": "tier_4_long_tail",
+    "style": "terse"
+  },
+  {
+    "question": "does fema pay for medicial bills from the disater",
+    "answer": "Yes, FEMA's Individuals and Households Program can provide money for disaster-caused medical and dental expenses not covered by insurance — things like injuries from the event, replacement of medical equipment, or prescription costs. Apply at DisasterAssistance.gov or call 1-800-621-3362, and keep all receipts and bills. Medicaid/Medi-Cal and your health insurance should be billed first.",
+    "topic": "Medical needs, prescriptions, and hospital access",
+    "tier": "tier_3_moderate",
+    "style": "typo"
+  },
+  {
+    "question": "Hi, our house got flooded last week and we're back home now but I'm scared to let my kids drink from the tap, how do I know if the water is okay?",
+    "answer": "If you're on a public water system, check with your utility — they'll issue a boil-water notice if the supply is unsafe, and lift it once tests pass. You can usually find updates on their website or by calling them directly. If you're on a private well, don't drink it until it's been disinfected (shock chlorinated) and tested for coliform bacteria and E. coli by a state-certified lab. Until then, use bottled water for drinking, cooking, brushing teeth, and making baby formula.",
+    "topic": "Water quality testing after flooding",
+    "tier": "tier_4_long_tail",
+    "style": "conversational"
+  },
+  {
+    "question": "What documents do I need to apply for DUA?",
+    "answer": "You'll generally need your Social Security number, a government-issued ID, proof of employment or self-employment at the time of the disaster (pay stubs, tax returns, 1099s, or a letter from your employer), and proof that the disaster caused your job loss. You must submit proof of income within 21 days of filing your DUA claim, so gather documents early.",
+    "topic": "Disaster unemployment assistance (DUA)",
+    "tier": "tier_1_critical",
+    "style": "grammatical"
+  },
+  {
+    "question": "where do i drop off clothes for fire victims",
+    "answer": "Please don't drop donations at disaster sites — unsolicited goods often overwhelm responders. Instead, call 211 (or visit 211ca.org) to find local organizations actively accepting donations. Cash donations to vetted groups like the American Red Cross, CA Community Foundation Wildfire Recovery Fund, or local food banks are usually the most helpful. You can also check CaliforniaVolunteers.ca.gov for current needs.",
+    "topic": "Donated goods and volunteer coordination",
+    "tier": "tier_4_long_tail",
+    "style": "terse"
+  },
+  {
+    "question": "lost my id in the fire how do i replace it",
+    "answer": "You can apply for a replacement California ID card through the DMV. Start the application online at dmv.ca.gov, but you'll need to visit a DMV office to finish (photo and thumbprint). The replacement fee may be waived for disaster survivors in declared areas — ask the DMV about a fee waiver when you go in. Make a DMV appointment online to skip the long wait.",
+    "topic": "Document replacement (ID, birth certificate, DMV)",
+    "tier": "tier_2_high_volume",
+    "style": "terse"
+  },
+  {
+    "question": "Can FEMA replace my dad's CPAP machine and wheelchair that were destroyed in the fire?",
+    "answer": "Yes. FEMA's Personal Property Assistance under IHP can help replace disaster-damaged medical equipment like CPAP machines, wheelchairs, walkers, hearing aids, and prescription eyeglasses — and you do NOT need a doctor's note for items he owned before the disaster. Apply at DisasterAssistance.gov or call 1-800-621-3362, and list each item with an estimated replacement cost. If insurance or Medicare won't cover the replacement, FEMA may.",
+    "topic": "Seniors and people with disabilities — special assistance",
+    "tier": "tier_4_long_tail",
+    "style": "grammatical"
+  },
+  {
+    "question": "How much does the state debris removal program cost homeowners?",
+    "answer": "The CalRecycle-led debris removal program has no out-of-pocket cost to property owners. However, if your insurance policy specifically covers debris removal, you may be required to remit those proceeds to the program. You won't pay more than what your insurance covers — uninsured costs are absorbed by state and federal funding.",
+    "topic": "Debris and hazardous material removal",
+    "tier": "tier_2_high_volume",
+    "style": "grammatical"
+  },
+  {
+    "question": "hi so we evacuated last night with our two cats and a parrot and the shelter they sent us to said no pets allowed, what do we do? we have nowhere else to go",
+    "answer": "I'm sorry — that's stressful. Please call 2-1-1 right away; they can locate the nearest pet-friendly shelter or co-located animal shelter for your cats and bird. You can also contact your county Animal Services or the local Humane Society, which often set up emergency boarding during disasters. The SPCA and organizations like RedRover sometimes provide free emergency sheltering and transport for evacuees' pets — ask 2-1-1 to connect you.",
+    "topic": "Pet-friendly shelters and veterinary assistance",
+    "tier": "tier_4_long_tail",
+    "style": "conversational"
+  },
+  {
+    "question": "is there any cash help for undocumentd familys in california after a disater",
+    "answer": "Yes. California has previously activated the Disaster Relief Assistance for Immigrants (DRAI) program, which provides direct cash aid to undocumented adults who don't qualify for federal help. Availability depends on the disaster declaration — check with your county's social services or call 211. Local nonprofits like CHIRLA, Catholic Charities, and CARECEN also offer emergency cash, food, and rental assistance regardless of status.",
+    "topic": "Resources for undocumented / mixed-status families",
+    "tier": "tier_4_long_tail",
+    "style": "typo"
+  },
+  {
+    "question": "what if i already hired a private contractor to remove my debris",
+    "answer": "You can still opt out of the government program and use a private contractor — this is called the Private Property Debris Removal (PPDR) or alternative program. You'll need to submit a work plan to your county/local environmental health department for approval before work begins, and the contractor must be licensed and follow the same safety and disposal standards. Keep all receipts; some costs may be reimbursable through insurance or FEMA.",
+    "topic": "Debris and hazardous material removal",
+    "tier": "tier_2_high_volume",
+    "style": "follow_up"
+  },
+  {
+    "question": "do i need to file with insurance before fema",
+    "answer": "Yes — file your insurance claim first. FEMA cannot duplicate benefits your insurance covers, but it may help with uninsured or underinsured losses. Still apply with FEMA right away (1-800-621-3362 or DisasterAssistance.gov) even while your insurance claim is pending; you can submit your insurance settlement letter to FEMA later.",
+    "topic": "Wildfire-specific recovery steps",
+    "tier": "tier_2_high_volume",
+    "style": "terse"
+  },
+  {
+    "question": "Hi, my home in Altadena burned down in the Eaton Fire and I want to rebuild the same house I had before, do I have to follow new zoning rules or can I just rebuild what was there?",
+    "answer": "In most California disaster zones, you can rebuild 'like-for-like' (same footprint, height, and use) without a full new zoning review, even if current codes would normally require something different. However, you'll still need to meet current building, fire, and wildland-urban interface (WUI) codes (Chapter 7A) for safety. LA County's Unincorporated Disaster Recovery Permitting program waives many fees and expedites review for like-for-like rebuilds. Contact LA County Public Works' Rebuild LA Recovery Center or visit recovery.lacounty.gov for specifics.",
+    "topic": "Long-term recovery: rebuilding permits and zoning",
+    "tier": "tier_4_long_tail",
+    "style": "personal_context"
+  },
+  {
+    "question": "Hi, I lost almost everything in the wildfire and I'm completely overwhelmed. Where do I even start to get help?",
+    "answer": "I'm so sorry for your loss. Start by registering with FEMA at DisasterAssistance.gov or by calling 1-800-621-3362 — this opens the door to grants for temporary housing, repairs, and other needs. Then file a claim with your insurance company (FEMA needs that info too). Finally, you can apply for a low-interest SBA disaster loan at sba.gov/disaster, which is available to homeowners, renters, and businesses. Also dial 211 for local recovery resources.",
+    "topic": "How to apply for disaster aid (eligibility, deadlines)",
+    "tier": "tier_1_critical",
+    "style": "conversational"
+  },
+  {
+    "question": "My elderly mother lost her home and she doesn't really use computers, how can she file an insurance claim?",
+    "answer": "She can file by phone — every insurance company has a 24/7 claims phone line, usually printed on billing statements or available by calling the main customer service number. An adjuster will be assigned and can meet her in person. If she'd like help advocating, the California Department of Insurance offers free assistance at 1-800-927-4357, and Disaster Recovery Centers have insurance specialists who can sit down with her face-to-face.",
+    "topic": "Filing insurance claims after a disaster",
+    "tier": "tier_1_critical",
+    "style": "personal_context"
+  },
+  {
+    "question": "How much money will I get from DUA?",
+    "answer": "Your DUA weekly benefit is calculated similarly to regular UI based on your recent earnings, with a minimum set by federal rules and a maximum that matches California's UI max (currently $450/week). Self-employed applicants' benefits are based on net income from tax returns. Benefits can last up to 26 weeks from the start of the disaster.",
+    "topic": "Disaster unemployment assistance (DUA)",
+    "tier": "tier_1_critical",
+    "style": "grammatical"
+  },
+  {
+    "question": "I filed for the disaster extension months ago and still haven't heard back, is that normal?",
+    "answer": "You shouldn't expect a confirmation letter — disaster relief is applied automatically to your account based on your address, so there's nothing to \"approve.\" If you received a late-filing or late-payment notice anyway, call the number on the notice or the IRS disaster hotline at 1-866-562-5227 and mention the disaster; they'll abate the penalty. You can also check your account status at irs.gov/account.",
+    "topic": "Tax filing extensions and disaster tax relief",
+    "tier": "tier_2_high_volume",
+    "style": "follow_up"
+  },
+  {
+    "question": "how do i uplaod docs to fema if my internt keeps cutting out",
+    "answer": "A few tips: (1) Try uploading from a public Wi-Fi spot like a library, Disaster Recovery Center, or community center — 211 can help locate one. (2) If uploads keep failing, you can mail documents to FEMA or bring them in person to a Disaster Recovery Center. (3) You can also fax documents to 1-800-827-8112. (4) If you need help with your online account, call 1-844-875-6446. Documents may take up to 10 days to show in your Upload History.",
+    "topic": "Internet, phone, and communications outages",
+    "tier": "tier_4_long_tail",
+    "style": "typo"
+  },
+  {
+    "question": "i already paid a contractor 20k upfront and now hes not returning calls what do i do",
+    "answer": "File a complaint with CSLB immediately at cslb.ca.gov (select 'Licensed and Unlicensed Project Complaints') or call 1-800-321-2752. Document everything — contract, payments, texts, photos. If he was unlicensed and took more than $1,000 or didn't deliver, that may be a crime; also file a report with your local police or DA's consumer fraud unit. If he was licensed, you may be able to recover funds through his contractor bond.",
+    "topic": "Contractor licensing and avoiding post-disaster fraud",
+    "tier": "tier_3_moderate",
+    "style": "follow_up"
+  },
+  {
+    "question": "My elderly mother lives alone and can't drive to a food pantry. Are there delivery options?",
+    "answer": "Yes — many California food banks offer home delivery for seniors and people with disabilities. Call 2-1-1 to find programs in her area, or contact her local Area Agency on Aging (eldercare.acl.gov or 1-800-510-2020). Meals on Wheels delivers hot meals to homebound seniors. If she has CalFresh, she can also use it to order groceries online from Amazon, Walmart, Safeway, and Albertsons with delivery.",
+    "topic": "Food and water assistance (CalFresh, food banks)",
+    "tier": "tier_2_high_volume",
+    "style": "personal_context"
+  },
+  {
+    "question": "hi so my house burned down in the fire and theres ash everywhere can i just start cleaning it up myself or is that dangerous?",
+    "answer": "Please do not touch or breathe in the ash — wildfire debris often contains toxic materials like asbestos, lead, and heavy metals. Wait for the official Phase 1 hazardous household waste removal (handled by US EPA or state crews) before any cleanup begins. After that, you can either opt into the state-sponsored Phase 2 debris removal program through your county at no out-of-pocket cost, or hire a licensed private contractor. Contact your county recovery office to sign up.",
+    "topic": "Debris and hazardous material removal",
+    "tier": "tier_2_high_volume",
+    "style": "conversational"
+  },
+  {
+    "question": "fema denied me what now",
+    "answer": "Don't panic — many denials are due to missing documents and can be fixed on appeal. You have 60 days from the date of your decision letter to appeal. Submit any missing paperwork (insurance settlement, proof of occupancy/ownership, repair estimates) through your DisasterAssistance.gov account, by mail, or by fax to (800) 827-8112. Call 1-800-621-3362 if you need help understanding the letter.",
+    "topic": "FEMA registration and individual assistance",
+    "tier": "tier_1_critical",
+    "style": "terse"
+  },
+  {
+    "question": "can my landlord evict me if my apartment burned down",
+    "answer": "Generally no — if the unit is uninhabitable due to a disaster, California law (Civil Code 1933) typically ends the lease obligation, but your landlord cannot simply evict you without proper notice. You may be entitled to a prorated refund of rent and your security deposit for the time the unit was unusable. Contact Disaster Legal Services (free) by calling 211 or your local Legal Aid office. You can also call the CA Attorney General's office for tenant rights questions.",
+    "topic": "Renter rights and protections after disaster damage",
+    "tier": "tier_3_moderate",
+    "style": "terse"
+  },
+  {
+    "question": "Hi, my husband and I lost both of our cars in the Eaton fire and we only had liability insurance on one of them, is there anything we can do to get help replacing them because we need to get to work?",
+    "answer": "I'm so sorry. Without comprehensive coverage, insurance won't pay for the fire loss, but you still have options. Apply to FEMA (1-800-621-3362 or DisasterAssistance.gov) — they offer limited Transportation Assistance if a vehicle is essential and uninsured. Then apply for an SBA disaster home loan, which can lend up to $100,000 for personal property including vehicle replacement, at low interest rates. You may also qualify for a casualty loss deduction on your taxes — see IRS disaster relief guidance.",
+    "topic": "Replacing a car or vehicle damaged in disaster",
+    "tier": "tier_4_long_tail",
+    "style": "conversational"
+  },
+  {
+    "question": "Hi, our house burned down last week and we lost everything including our birth certificates, social security cards, and drivers licenses. Where do we even start?",
+    "answer": "I'm so sorry. Start with the documents you'll need first to access aid: (1) Driver's license/ID — apply at dmv.ca.gov, fees are often waived for disaster survivors. (2) Birth certificates — order from the CA Department of Public Health Vital Records or your county recorder. (3) Social Security card — request a replacement free at ssa.gov/myaccount or call 1-800-772-1213. FEMA does NOT require these originals to register — call 1-800-621-3362 or go to DisasterAssistance.gov to apply now and submit documents later.",
+    "topic": "Document replacement (ID, birth certificate, DMV)",
+    "tier": "tier_2_high_volume",
+    "style": "conversational"
+  },
+  {
+    "question": "How long do I have to rebuild before insurance stops paying?",
+    "answer": "Under California law, after a declared disaster you have at least 36 months to rebuild and collect full replacement cost benefits, and you can request additional extensions of 6 months for good cause. You're also allowed to rebuild at a different location or buy an already-built replacement home and still receive your full replacement cost benefits. Keep your insurer updated in writing on your rebuilding progress.",
+    "topic": "Filing insurance claims after a disaster",
+    "tier": "tier_1_critical",
+    "style": "grammatical"
+  },
+  {
+    "question": "How does Additional Living Expenses coverage actually work?",
+    "answer": "ALE (also called Loss of Use) reimburses the extra costs of living away from home — hotel, rental, restaurant meals above normal grocery costs, laundry, pet boarding, and storage. Save every receipt and keep a simple log. In California declared disasters, insurers must offer at least 24 months of ALE (extendable to 36) and must advance at least 4 months of ALE upon request without requiring an itemized inventory.",
+    "topic": "Filing insurance claims after a disaster",
+    "tier": "tier_1_critical",
+    "style": "grammatical"
+  },
+  {
+    "question": "how long does it take to get aproved for calfesh",
+    "answer": "Regular CalFresh applications are processed within 30 days, but if you have very low income and resources you may qualify for expedited service — benefits within 3 days. Disaster CalFresh is even faster, often issued within a few days during the application window. Apply at GetCalFresh.org or BenefitsCal.com.",
+    "topic": "Food and water assistance (CalFresh, food banks)",
+    "tier": "tier_2_high_volume",
+    "style": "typo"
+  },
+  {
+    "question": "my house burned down and i cant get mail how do i get my edd payments",
+    "answer": "Two options: First, sign up for direct deposit or the EDD debit card through myEDD so you don't rely on mail. Second, if you're already receiving paper mail, contact your local post office about holding or forwarding mail, or call USPS at 1-800-275-8777. You can also call EDD at 1-800-300-5616 to update your address.",
+    "topic": "Disaster unemployment assistance (DUA)",
+    "tier": "tier_1_critical",
+    "style": "terse"
+  },
+  {
+    "question": "what if i was denied by sba",
+    "answer": "If SBA denies your disaster loan, you may automatically become eligible for additional FEMA assistance — so don't ignore the denial letter. You can also appeal the SBA decision within 6 months by submitting new information (updated income, corrected credit issues, etc.). Keep the denial letter; FEMA may ask to see it.",
+    "topic": "SBA disaster loans for homeowners and businesses",
+    "tier": "tier_2_high_volume",
+    "style": "follow_up"
+  },
+  {
+    "question": "i filed for dua like 3 weeks ago and havent heard anything what do i do",
+    "answer": "Log in to myEDD to check your claim status and look for any messages or requests for documents — DUA claims often need extra paperwork like tax returns or proof of employment. If everything looks submitted, call EDD at 1-800-300-5616 to ask about the delay. Disaster claim volume is high, so processing can take several weeks.",
+    "topic": "Disaster unemployment assistance (DUA)",
+    "tier": "tier_1_critical",
+    "style": "follow_up"
+  },
+  {
+    "question": "I run a small dairy farm in the Central Valley and we just got hit by flooding, who tests our water for the cows and the milking equipment?",
+    "answer": "For agricultural operations, contact your county environmental health department and your local UC Cooperative Extension office — they can advise on testing for livestock water and dairy sanitation. You'll need a state-certified (ELAP) lab to test for coliform, E. coli, and possibly nitrates. The CDFA Dairy Safety Branch may also need to clear your milking system before you resume shipping milk. SBA disaster loans can help cover testing and remediation costs.",
+    "topic": "Water quality testing after flooding",
+    "tier": "tier_4_long_tail",
+    "style": "personal_context"
+  },
+  {
+    "question": "My elderly mom doesn't use the internet. How can she apply for disaster aid without going online?",
+    "answer": "She can apply by phone at 1-800-621-3362 (TTY 1-800-462-7585), open 7 a.m.–11 p.m. ET, 7 days a week, with help available in many languages. She can also visit a Disaster Recovery Center in person — find the nearest one at fema.gov/drc or by calling that same number. Staff there will walk her through the application.",
+    "topic": "How to apply for disaster aid (eligibility, deadlines)",
+    "tier": "tier_1_critical",
+    "style": "personal_context"
+  },
+  {
+    "question": "are aftershocks dangerous should i worry",
+    "answer": "Yes — aftershocks can be strong enough to bring down already-weakened buildings, chimneys, and walls. Stay out of damaged structures, watch for falling debris, and keep shoes on in case of broken glass. If you're indoors during an aftershock, drop, cover, and hold on. Aftershocks can continue for days, weeks, or months after a major quake.",
+    "topic": "Earthquake-specific recovery steps",
+    "tier": "tier_2_high_volume",
+    "style": "terse"
+  },
+  {
+    "question": "I'm an undocumented farmworker and I take care of the owner's horses, can I call for evacuation help without getting in trouble?",
+    "answer": "Yes — animal rescue and evacuation services do not ask about immigration status. Call 211, county Animal Services, or local CART volunteers; they're focused on saving animals, not enforcement. The Red Cross and county shelters also serve everyone regardless of status. If you need to leave the property yourself, evacuation shelters are open to all residents too.",
+    "topic": "Livestock and large animal evacuation and recovery",
+    "tier": "tier_4_long_tail",
+    "style": "personal_context"
+  },
+  {
+    "question": "disability help fema",
+    "answer": "FEMA offers extra support for people with disabilities, including accessible communication (ASL, large print, Braille), accessible Disaster Recovery Centers, and funds to replace lost medical equipment or make accessibility repairs. Call the FEMA Helpline at 1-800-621-3362 (TTY available, or use your video/captioned relay service) and tell them about your access or functional needs. You can also ask for a Disability Integration Advisor at any Disaster Recovery Center.",
+    "topic": "Seniors and people with disabilities — special assistance",
+    "tier": "tier_4_long_tail",
+    "style": "terse"
+  },
+  {
+    "question": "how long can i stay in a fema hotel",
+    "answer": "FEMA's Transitional Sheltering Assistance (TSA), when activated, typically covers short stays of about 5–14 days at a time and can be extended based on need and the disaster. FEMA reviews eligibility periodically. Call 1-800-621-3362 or check your account at DisasterAssistance.gov for your specific end date and extension options.",
+    "topic": "Temporary housing and shelters",
+    "tier": "tier_1_critical",
+    "style": "terse"
+  },
+  {
+    "question": "how do i find my catttle that ran off durring the fire",
+    "answer": "Report missing livestock to your county Animal Services, the county Agricultural Commissioner, and CDFA's Animal Health Branch — they coordinate stray livestock recovery after disasters. Post photos and brand/ear tag info to local lost livestock Facebook groups and your county CART page. Neighboring ranchers often round up displaced animals, so check with the local cattlemen's association too. Keep brand inspection paperwork handy to prove ownership when claiming them.",
+    "topic": "Livestock and large animal evacuation and recovery",
+    "tier": "tier_4_long_tail",
+    "style": "typo"
+  },
+  {
+    "question": "hi so i got a letter from fema saying i was only approved for like $800 but my house has way more damage than that what can i do",
+    "answer": "You can appeal FEMA's decision within 60 days of the date on your letter. Gather documents that show the full extent of damage — repair estimates from contractors, receipts, photos, and insurance settlement letters if you have them. Write down why the amount isn't enough and include the appeal form (or just a letter) with your FEMA application number and disaster number on every page. Submit it through your DisasterAssistance.gov account, by mail, or by fax to (800) 827-8112.",
+    "topic": "FEMA appeals process",
+    "tier": "tier_3_moderate",
+    "style": "conversational"
+  },
+  {
+    "question": "my water isnt working since the fire who do i call",
+    "answer": "Contact your local water provider — the number is usually on your water bill or your city/county website. After wildfires, water systems sometimes issue Do Not Drink or Boil Water notices due to contamination, so check for those notices before using tap water. If you can't reach your provider, call 211 for local water distribution sites.",
+    "topic": "Power/utility restoration and outage reporting",
+    "tier": "tier_2_high_volume",
+    "style": "typo"
+  },
+  {
+    "question": "Are there free counseling services available for disaster survivors in California?",
+    "answer": "Yes. FEMA's Crisis Counseling Assistance and Training Program (CCP) funds free, confidential, short-term counseling for survivors in federally declared disaster areas, delivered through California county behavioral health departments. You can also call 211 (or visit 211ca.org) to find local mental health resources, or contact the SAMHSA Disaster Distress Helpline at 1-800-985-5990, available 24/7 in multiple languages.",
+    "topic": "Mental health and emotional support after a disaster",
+    "tier": "tier_3_moderate",
+    "style": "grammatical"
+  },
+  {
+    "question": "can i bring my dog to the shelter",
+    "answer": "Many Red Cross and county-run disaster shelters in California are pet-friendly or have co-located pet shelters nearby, but policies vary by location. Call 2-1-1 to find the closest shelter that accepts pets, and bring a leash/carrier, vaccination records, food, and any medications if possible. Service animals are always allowed in all shelters by law.",
+    "topic": "Pet-friendly shelters and veterinary assistance",
+    "tier": "tier_4_long_tail",
+    "style": "terse"
+  },
+  {
+    "question": "I'm undocumented — can my family stay in a shelter?",
+    "answer": "Yes. Emergency shelters run by the Red Cross, local governments, and nonprofits in California do not ask about immigration status and are open to everyone. While undocumented adults can't apply for FEMA directly, you may apply on behalf of a U.S. citizen child in your household, and California has state-funded disaster relief programs that don't require status. Call 211 for shelter and resources in your area.",
+    "topic": "Temporary housing and shelters",
+    "tier": "tier_1_critical",
+    "style": "personal_context"
+  },
+  {
+    "question": "se habla espanol en la linea de crisis",
+    "answer": "Sí. The Disaster Distress Helpline (1-800-985-5990) has Spanish-speaking counselors 24/7 — you can press 2 for Spanish, or text \"Hablanos\" to 1-800-985-5990. The 988 Suicide & Crisis Lifeline also offers Spanish service by pressing 2. Both are free and confidential, regardless of immigration status.",
+    "topic": "Mental health and emotional support after a disaster",
+    "tier": "tier_3_moderate",
+    "style": "terse"
+  },
+  {
+    "question": "how do i aply for the livestoc indemnty program after my cattle died in the fire",
+    "answer": "File a Notice of Loss with your local USDA Farm Service Agency (FSA) office within 30 days of when the loss was apparent. For the Livestock Indemnity Program (LIP), you'll need proof the deaths were caused by the disaster — photos, vet records, rendering receipts, or third-party statements work. Then submit form CCC-852 along with documentation of inventory. Visit farmers.gov/recover or call your county FSA office to get started.",
+    "topic": "Agricultural disaster relief for farmers",
+    "tier": "tier_4_long_tail",
+    "style": "typo"
+  },
+  {
+    "question": "i own a small bakery and the earthquake damaged my equipment and storefront, what kind of help is out there for businesses",
+    "answer": "You have a few options. The SBA offers low-interest disaster loans for businesses — up to $2 million for physical damage and economic injury (disasterloanassistance.sba.gov or 1-800-659-2955). Check if your commercial policy includes earthquake coverage and file a claim immediately with photos. Cal OES and your county may open a Local Assistance Center with business recovery resources, and the CA Office of the Small Business Advocate (calosba.ca.gov) can connect you to local relief grants and counseling.",
+    "topic": "Earthquake-specific recovery steps",
+    "tier": "tier_2_high_volume",
+    "style": "personal_context"
+  },
+  {
+    "question": "hi so my mom is 78 and she takes like 6 different medications and we had to evacuate without them, the pharmacy she uses is in the evacuation zone, what should we do?",
+    "answer": "I'm sorry you're dealing with this. First, call any pharmacy from the same chain (CVS, Walgreens, Rite Aid, etc.) — they can usually pull her prescription history and do an emergency refill. If she uses an independent pharmacy, call her doctor's office or an urgent care for an emergency supply. California often issues emergency prescription refill orders during declared disasters, so pharmacies can dispense without the original bottle. Dial 211 for local disaster medical help if you get stuck.",
+    "topic": "Medical needs, prescriptions, and hospital access",
+    "tier": "tier_3_moderate",
+    "style": "conversational"
+  },
+  {
+    "question": "Hi, my church group wants to come down this weekend and help clean up debris from the fires, who do we coordinate with?",
+    "answer": "Thank you for wanting to help! Please don't self-deploy — affected areas often have safety hazards and access restrictions. Register your group through CaliforniaVolunteers.ca.gov or call 211 to be matched with a vetted Voluntary Organization Active in Disaster (VOAD) partner like Team Rubicon, Samaritan's Purse, or the Mennonite Disaster Service. They'll coordinate timing, training, and safety gear so your group can actually be put to work.",
+    "topic": "Donated goods and volunteer coordination",
+    "tier": "tier_4_long_tail",
+    "style": "conversational"
+  },
+  {
+    "question": "green card lost in fire help",
+    "answer": "You can replace your Permanent Resident Card by filing Form I-90 with USCIS at uscis.gov/i-90. USCIS may waive the filing fee for disaster survivors — submit Form I-912 (fee waiver) with proof you were affected. While you wait, you can request an ADIT stamp (temporary proof of status) by making an InfoPass appointment at 1-800-375-5283. Don't delay — you'll need this for FEMA, work, and benefits.",
+    "topic": "Document replacement (ID, birth certificate, DMV)",
+    "tier": "tier_2_high_volume",
+    "style": "terse"
+  },
+  {
+    "question": "my flood claim got denyed can i apeal",
+    "answer": "Yes. You have the right to appeal an NFIP claim denial or a payment amount you disagree with. Submit a written appeal to FEMA within 60 days of the denial letter, including supporting documents like photos, receipts, repair estimates, and your adjuster's report. Details and the appeal address are at floodsmart.gov/recover/appeal-a-claim, or call 1-800-621-3362.",
+    "topic": "Flood insurance and NFIP claims",
+    "tier": "tier_3_moderate",
+    "style": "typo"
+  },
+  {
+    "question": "how do i apply for dua",
+    "answer": "You can apply for Disaster Unemployment Assistance (DUA) through myEDD at edd.ca.gov, or by calling EDD at 1-800-300-5616 Monday–Friday, 8 a.m.–5 p.m. Pacific Time. DUA is only available when the President declares a federal disaster, so check that your area qualifies. Apply as soon as possible — there are deadlines after the disaster declaration.",
+    "topic": "Disaster unemployment assistance (DUA)",
+    "tier": "tier_1_critical",
+    "style": "terse"
+  },
+  {
+    "question": "can i rebuild on my lot right away",
+    "answer": "Not immediately — your property has to be cleared of hazardous materials and debris first (Phase 1 hazardous waste removal, then Phase 2 structural debris removal through CalRecycle or a private contractor approved by your county). After that, you'll need permits from your local building department; many counties set up expedited rebuild permit centers after major fires. Check with your county's Recovery or Building department for current rebuild guidance.",
+    "topic": "Wildfire-specific recovery steps",
+    "tier": "tier_2_high_volume",
+    "style": "terse"
+  },
+  {
+    "question": "how long does FEMA aproval take",
+    "answer": "After you apply, FEMA usually schedules a home inspection within a few days, and you can typically expect a decision letter within about 10 days of the inspection. You'll get the letter by mail or email depending on your preference. You can check status anytime at DisasterAssistance.gov.",
+    "topic": "FEMA registration and individual assistance",
+    "tier": "tier_1_critical",
+    "style": "typo"
+  },
+  {
+    "question": "What is the deadline to file a homeowners insurance claim after a wildfire in California?",
+    "answer": "California law requires insurers to give you at least 12 months from the date of loss to file a claim after a declared disaster, and the Insurance Commissioner often extends this further for major events. However, you should notify your insurer as soon as possible — waiting can delay your Additional Living Expenses and repair payments. Check your specific policy's notice requirements, and call the California Department of Insurance at 1-800-927-4357 if you need help.",
+    "topic": "Filing insurance claims after a disaster",
+    "tier": "tier_1_critical",
+    "style": "grammatical"
+  },
+  {
+    "question": "Hi, we just evacuated and I have three kids and no food in the car, is there somewhere we can get groceries or a hot meal tonight?",
+    "answer": "I'm sorry you're going through this. Call or text 2-1-1 (or visit 211ca.org) to find the nearest open shelter, food bank, and hot meal site — they're available 24/7 in every California county. Red Cross shelters typically provide free meals, snacks, and water. If you're at an evacuation center, ask staff about emergency food vouchers and Disaster CalFresh enrollment.",
+    "topic": "Food and water assistance (CalFresh, food banks)",
+    "tier": "tier_2_high_volume",
+    "style": "conversational"
+  },
+  {
+    "question": "can i start cleaning up before the adjuster comes",
+    "answer": "Do not throw anything away until the adjuster has documented the damage, but you can take steps to prevent further damage (tarping a roof, boarding windows) — save those receipts, they're reimbursable. Take extensive photos and video of all damage before any cleanup. If the adjuster is delayed, ask your insurer in writing for permission to proceed.",
+    "topic": "Filing insurance claims after a disaster",
+    "tier": "tier_1_critical",
+    "style": "terse"
+  },
+  {
+    "question": "hi we have a small ranch with about 20 goats and 4 horses and the fire is getting close, we dont have enough trailers to move everyone what do we do",
+    "answer": "Call your county Animal Services right away and 211 — they can coordinate volunteer trailer help through local CART teams, the Humane Society, and equine rescue networks. If evacuation isn't possible in time, move animals to the largest cleared/irrigated area on your property, remove halters with synthetic parts, write your phone number on their hooves or use livestock crayon on their coats, and leave gates open so they can flee fire. Don't tie or pen them. Notify CDFA and your county ag commissioner once you're safe so they know animals were left behind.",
+    "topic": "Livestock and large animal evacuation and recovery",
+    "tier": "tier_4_long_tail",
+    "style": "conversational"
+  },
+  {
+    "question": "mold everywhere after flood what do i do",
+    "answer": "Act fast — mold can grow within 24-48 hours. Remove wet materials (carpet, drywall, insulation), dry the area with fans/dehumidifiers, and clean hard surfaces with detergent and water. Wear an N95 mask, gloves, and goggles. FEMA may provide 'Clean and Sanitize' assistance — apply at DisasterAssistance.gov or call 1-800-621-3362. For health questions, call 211.",
+    "topic": "Mold remediation guidance",
+    "tier": "tier_4_long_tail",
+    "style": "terse"
+  },
+  {
+    "question": "can i apeal fema desicion if i missed the 60 day deadline",
+    "answer": "Appeals are generally due within 60 days of the date on your FEMA decision letter. If you missed the deadline, you can still try to submit your appeal with a written explanation of why it's late — FEMA may consider it if you had a good reason (illness, displacement, etc.). Call the FEMA Helpline at 1-800-621-3362 to discuss your situation before submitting.",
+    "topic": "FEMA appeals process",
+    "tier": "tier_3_moderate",
+    "style": "typo"
+  },
+  {
+    "question": "lost my insulin in the fire what do i do",
+    "answer": "For immediate medical needs call 911 or go to the nearest ER — they can give you emergency insulin. For replacement prescriptions, contact your pharmacy (chains like CVS/Walgreens can often refill from their system even without the bottle) or call 211 for local disaster medical resources. FEMA's Individuals and Households Program may also reimburse disaster-related medical and prescription costs once you apply at DisasterAssistance.gov or 1-800-621-3362.",
+    "topic": "Medical needs, prescriptions, and hospital access",
+    "tier": "tier_3_moderate",
+    "style": "terse"
+  },
+  {
+    "question": "what is a psps",
+    "answer": "PSPS stands for Public Safety Power Shutoff. Utilities like PG&E, SCE, and SDG&E proactively turn off power during high fire-risk weather (strong winds, dry conditions) to prevent their equipment from sparking wildfires. You can sign up for PSPS alerts at your utility's website using your address — even if you're not the account holder.",
+    "topic": "Power/utility restoration and outage reporting",
+    "tier": "tier_2_high_volume",
+    "style": "terse"
+  },
+  {
+    "question": "can i get copies of my old tax returns if they burned up",
+    "answer": "Yes, and the IRS waives the fee for disaster victims. Request transcripts free at irs.gov/transcripts, or file Form 4506-T (write the disaster name in red at the top, e.g., \"California Wildfires\") to get free copies. You can also call 1-800-908-9946.",
+    "topic": "Tax filing extensions and disaster tax relief",
+    "tier": "tier_2_high_volume",
+    "style": "terse"
+  },
+  {
+    "question": "no cell service since the fire how do i apply to fema",
+    "answer": "You can still apply to FEMA even without cell service. Try these options: (1) Use any working Wi-Fi (library, shelter, Disaster Recovery Center) to apply at DisasterAssistance.gov, (2) Call FEMA at 1-800-621-3362 from a landline or borrowed phone, or (3) Visit a Disaster Recovery Center in person — staff there can register you and you can use their internet. Find the nearest center at fema.gov/drc.",
+    "topic": "Internet, phone, and communications outages",
+    "tier": "tier_4_long_tail",
+    "style": "terse"
+  },
+  {
+    "question": "Can I get DUA and FEMA assistance at the same time?",
+    "answer": "Yes — DUA (income replacement from EDD) and FEMA Individual Assistance (housing, repairs, other needs) are separate programs and you can receive both. You should apply for each one individually: DUA through myEDD or 1-800-300-5616, and FEMA at DisasterAssistance.gov or 1-800-621-3362. You may also qualify for an SBA disaster loan to cover uninsured losses.",
+    "topic": "Disaster unemployment assistance (DUA)",
+    "tier": "tier_1_critical",
+    "style": "grammatical"
+  },
+  {
+    "question": "can i volunteer if im undocumented",
+    "answer": "Yes — volunteer organizations generally do not ask about immigration status. You can sign up through CaliforniaVolunteers.ca.gov, 211, or directly with groups like World Central Kitchen, local food banks, or mutual aid networks. Some roles (like those requiring a background check or driving an official vehicle) may have more requirements, but most disaster volunteer work does not. Mutual aid groups in your area are often a welcoming starting point.",
+    "topic": "Donated goods and volunteer coordination",
+    "tier": "tier_4_long_tail",
+    "style": "personal_context"
+  },
+  {
+    "question": "my job burned down in the fire and i cant work now, is there unemployment for that?",
+    "answer": "Yes — you may qualify for Disaster Unemployment Assistance (DUA) through California's EDD, even if you wouldn't normally qualify for regular unemployment (including self-employed workers and farmworkers). Apply at edd.ca.gov or call 1-800-300-5616, and mention it's a disaster claim. You usually have to apply within 30 days of the DUA announcement for your disaster.",
+    "topic": "Wildfire-specific recovery steps",
+    "tier": "tier_2_high_volume",
+    "style": "personal_context"
+  },
+  {
+    "question": "i missed the fema deadline what do i do",
+    "answer": "Call FEMA right away at 1-800-621-3362 and explain why you couldn't apply on time — late applications are sometimes accepted with a valid reason (illness, displacement, etc.). FEMA also occasionally extends deadlines. If you're denied, you can still appeal within 60 days of the decision letter, and free disaster legal aid is available — call 211 for a referral.",
+    "topic": "How to apply for disaster aid (eligibility, deadlines)",
+    "tier": "tier_1_critical",
+    "style": "follow_up"
+  },
+  {
+    "question": "hello i am renter not owner, the fire damaged my apartment building and landlord says we cant come back, does FEMA help renters too or only homeowners",
+    "answer": "Yes, FEMA helps renters too. You can qualify for Rental Assistance to pay for a new temporary place, Displacement Assistance for immediate lodging, and Personal Property assistance to replace belongings like furniture and clothing. Apply at DisasterAssistance.gov or 1-800-621-3362. Also call 211 for local rental listings and legal aid if you have questions about your lease.",
+    "topic": "Temporary housing and shelters",
+    "tier": "tier_1_critical",
+    "style": "conversational"
+  },
+  {
+    "question": "I run a small restaurant that had to close because of the fires, will insurance cover lost income?",
+    "answer": "If you have business interruption coverage (often part of a commercial policy), yes — it can cover lost net income and continuing expenses like payroll and rent while you're closed due to covered damage. File a claim with your commercial insurer immediately and gather profit/loss statements, tax returns, and payroll records. If insurance falls short, look into an SBA Economic Injury Disaster Loan at sba.gov/disaster, and the California Department of Insurance can help at 1-800-927-4357.",
+    "topic": "Filing insurance claims after a disaster",
+    "tier": "tier_1_critical",
+    "style": "personal_context"
+  },
+  {
+    "question": "usda help for farmers after wildfire",
+    "answer": "Contact your local USDA Farm Service Agency (FSA) office to apply for disaster programs like the Livestock Indemnity Program (LIP), Emergency Livestock Assistance Program (ELAP), Tree Assistance Program (TAP), and the Noninsured Crop Disaster Assistance Program (NAP). You can also apply for FSA Emergency Loans for physical and production losses. Find your local office at farmers.gov/recover.",
+    "topic": "Agricultural disaster relief for farmers",
+    "tier": "tier_4_long_tail",
+    "style": "terse"
+  },
+  {
+    "question": "how do i help my kid she wont talk since we lost the house",
+    "answer": "Children often go quiet or regress after a disaster — it's a common stress response. The Disaster Distress Helpline (1-800-985-5990) can guide parents, and the National Child Traumatic Stress Network (nctsn.org) has free resources for talking with kids. Your county behavioral health department offers free children's crisis counseling through FEMA's Crisis Counseling Program when a disaster is declared. If she shows signs of self-harm or won't eat, call 988 or her pediatrician right away.",
+    "topic": "Mental health and emotional support after a disaster",
+    "tier": "tier_3_moderate",
+    "style": "personal_context"
+  },
+  {
+    "question": "can i clean mould myself or do i need a professionel",
+    "answer": "For small areas (under ~10 sq ft), you can usually clean it yourself using detergent and water, wearing an N95 mask, gloves, and goggles. For larger areas, HVAC contamination, or if anyone in the home has asthma or a weakened immune system, hire a licensed mold remediation professional. In California, check contractor licenses at CSLB.ca.gov before hiring to avoid post-disaster scams.",
+    "topic": "Mold remediation guidance",
+    "tier": "tier_4_long_tail",
+    "style": "typo"
+  },
+  {
+    "question": "i alredy went to dmv 3 weeks ago and still no license what now",
+    "answer": "DMV says cards usually arrive in 3–4 weeks, so you're right at the edge. Check the status at dmv.ca.gov under \"Driver's License & ID Card Status\" using your info — that often tells you if it's been mailed. If it's been 60 days with nothing, call DMV at 1-800-777-0133. Your temporary paper license from the office visit is still valid to drive in the meantime.",
+    "topic": "Document replacement (ID, birth certificate, DMV)",
+    "tier": "tier_2_high_volume",
+    "style": "follow_up"
+  },
+  {
+    "question": "i have a farm that got damaged who do i call",
+    "answer": "Farms generally aren't eligible for SBA disaster loans — instead, contact your local USDA Farm Service Agency (FSA) office or visit farmers.gov/recover. The FSA offers emergency loans, the Emergency Conservation Program, and Livestock Indemnity Program. You can also apply to FEMA for damage to your home, and check with the CA Department of Food and Agriculture for state-level help.",
+    "topic": "How to apply for disaster aid (eligibility, deadlines)",
+    "tier": "tier_1_critical",
+    "style": "personal_context"
+  },
+  {
+    "question": "am i eligable for fema if i rent",
+    "answer": "Yes — renters can absolutely qualify for FEMA assistance. You can receive grants for temporary housing, replacement of essential personal property (clothing, furniture, appliances), medical/dental costs, and other disaster-related expenses not covered by insurance. Apply at DisasterAssistance.gov or call 1-800-621-3362.",
+    "topic": "How to apply for disaster aid (eligibility, deadlines)",
+    "tier": "tier_1_critical",
+    "style": "typo"
+  },
+  {
+    "question": "My elderly father doesn't use computers and lost his job cleaning at a hotel that closed after the flood. How can he apply without going online?",
+    "answer": "He can apply by phone — call EDD at 1-800-300-5616, Monday–Friday 8 a.m.–5 p.m. Pacific. A representative will take his application over the phone. He can also visit a Local Assistance Center or Disaster Recovery Center, where staff help in person with DUA, FEMA, and other recovery applications. Call 211 to find the nearest one.",
+    "topic": "Disaster unemployment assistance (DUA)",
+    "tier": "tier_1_critical",
+    "style": "personal_context"
+  },
+  {
+    "question": "sba loan max for homeowners",
+    "answer": "Homeowners can borrow up to $500,000 from the SBA to repair or replace their primary residence, plus up to $100,000 for personal property like furniture, clothing, and vehicles. Secondary homes don't qualify. Apply at sba.gov/disaster.",
+    "topic": "SBA disaster loans for homeowners and businesses",
+    "tier": "tier_2_high_volume",
+    "style": "terse"
+  },
+  {
+    "question": "whats the difference between fema and sba loans do i need both",
+    "answer": "FEMA grants don't have to be repaid but cover limited needs. If FEMA refers you to the SBA, fill out the SBA disaster loan application even if you don't want a loan — it's required to be considered for additional FEMA assistance like personal property and transportation help. If SBA denies you, FEMA may then provide more grant aid. Apply at sba.gov/disaster or call 1-800-659-2955.",
+    "topic": "FEMA registration and individual assistance",
+    "tier": "tier_1_critical",
+    "style": "follow_up"
+  },
+  {
+    "question": "does dmv waive the fee for replacment license if i lost it in a disater",
+    "answer": "Yes — when the Governor declares a state of emergency, the DMV typically waives fees for replacement driver's licenses and ID cards for residents in the affected area. Tell the DMV staff your address was in the disaster zone when you apply. You can start the application at dmv.ca.gov and finish at a DMV office.",
+    "topic": "Document replacement (ID, birth certificate, DMV)",
+    "tier": "tier_2_high_volume",
+    "style": "typo"
+  },
+  {
+    "question": "small business burned down can i get a loan",
+    "answer": "Yes — the U.S. Small Business Administration (SBA) offers low-interest disaster loans for businesses of all sizes, including physical damage loans (up to $2 million) and Economic Injury Disaster Loans for lost revenue. Apply at sba.gov/disaster or call 1-800-659-2955. You should also register with FEMA, and check with your county for local business recovery resources.",
+    "topic": "Wildfire-specific recovery steps",
+    "tier": "tier_2_high_volume",
+    "style": "terse"
+  },
+  {
+    "question": "How do I find out which hospitals are open after the wildfire?",
+    "answer": "Call 211 or check your county public health department's website for current hospital and clinic status — they post closures and diversions during disasters. Local news and the county Office of Emergency Services also share updates. If you have a medical emergency, still call 911 — dispatchers will route you to the nearest operating facility.",
+    "topic": "Medical needs, prescriptions, and hospital access",
+    "tier": "tier_3_moderate",
+    "style": "grammatical"
+  },
+  {
+    "question": "what if fema denied my vehicle request can i appeal",
+    "answer": "Yes, you have 60 days from the date of your FEMA decision letter to appeal. Write a signed letter explaining why you disagree, include your FEMA registration number, and attach supporting documents — title, registration, insurance denial, repair estimate, and proof the vehicle was your primary transportation. Submit through DisasterAssistance.gov, by fax, or by mail to the address on your letter. You can also call 1-800-621-3362 for help with the appeal.",
+    "topic": "Replacing a car or vehicle damaged in disaster",
+    "tier": "tier_4_long_tail",
+    "style": "follow_up"
+  },
+  {
+    "question": "we own a small farm and lost barns and equipment in the fire, does the debris program cover agricultural buildings?",
+    "answer": "The state debris removal program typically covers residential structures, but coverage for agricultural outbuildings, barns, and equipment varies by disaster declaration. Commercial and ag properties sometimes need to use the private property debris removal (alternative) route, with cleanup costs potentially reimbursable through SBA disaster loans or crop/farm insurance. Contact your county Ag Commissioner and CalRecycle for guidance specific to your disaster.",
+    "topic": "Debris and hazardous material removal",
+    "tier": "tier_2_high_volume",
+    "style": "personal_context"
+  },
+  {
+    "question": "Can renters apply for FEMA assistance, or is that only for homeowners?",
+    "answer": "Yes, renters can absolutely apply for FEMA assistance. FEMA's Individuals and Households Program (IHP) can provide rental assistance for temporary housing and money to replace essential personal property like clothing, furniture, and appliances. Apply at DisasterAssistance.gov, through the FEMA app, or by calling 1-800-621-3362. Renters can also apply for low-interest SBA disaster loans to replace personal property.",
+    "topic": "Renter rights and protections after disaster damage",
+    "tier": "tier_3_moderate",
+    "style": "grammatical"
+  },
+  {
+    "question": "How do I document earthquake damage for my insurance claim?",
+    "answer": "Before cleaning up or throwing anything away, take photos and videos of every damaged area — walls, foundation, chimney, broken belongings, and the exterior. Make a written list of damaged items with approximate values and purchase dates if possible. Save receipts for any emergency repairs or temporary lodging. Then contact your earthquake insurer (usually CEA through your home insurer) to start the claim as soon as possible.",
+    "topic": "Earthquake-specific recovery steps",
+    "tier": "tier_2_high_volume",
+    "style": "grammatical"
+  },
+  {
+    "question": "do i need to file with my insurance before fema will help with housing",
+    "answer": "Yes — if you have homeowners or renters insurance, file a claim first. FEMA can't duplicate what insurance covers, but they may help with needs your policy doesn't cover (like Additional Living Expenses being delayed or exhausted). Send FEMA your insurance settlement or denial letter so they can review you for housing assistance. You can still register with FEMA right away while your claim is pending.",
+    "topic": "Temporary housing and shelters",
+    "tier": "tier_1_critical",
+    "style": "terse"
+  },
+  {
+    "question": "i called my pharmacy yesterday for an emergency refill but they said no, what now",
+    "answer": "Try a different pharmacy in the same chain, or ask them specifically about California's emergency refill provisions during a declared disaster (pharmacists can dispense up to a 30-day supply of most non-controlled meds). If that fails, call your doctor's office or a telehealth service for a new prescription, or visit a Disaster Recovery Center or local urgent care. 211 can also locate free disaster medical clinics in your area.",
+    "topic": "Medical needs, prescriptions, and hospital access",
+    "tier": "tier_3_moderate",
+    "style": "follow_up"
+  },
+  {
+    "question": "How does workers' compensation work if I was injured during a wildfire cleanup job?",
+    "answer": "If you're an employee doing cleanup or rebuild work, your employer must carry workers' comp insurance and cover medical treatment plus lost wages for any on-the-job injury. Report the injury to your employer within 30 days and request a DWC-1 claim form. If your employer is unlicensed or uninsured, you can still file through the Uninsured Employers Benefits Trust Fund. Report unsafe conditions to Cal/OSHA at 1-833-579-0927.",
+    "topic": "Workers' comp and job protection during evacuation",
+    "tier": "tier_4_long_tail",
+    "style": "grammatical"
+  },
+  {
+    "question": "do i need insurance to apply",
+    "answer": "No, you don't need insurance to apply for FEMA. But if you do have insurance, file that claim first — FEMA only covers losses your insurance doesn't. You can apply to FEMA at the same time at DisasterAssistance.gov or 1-800-621-3362.",
+    "topic": "How to apply for disaster aid (eligibility, deadlines)",
+    "tier": "tier_1_critical",
+    "style": "terse"
+  },
+  {
+    "question": "dua phone number spanish",
+    "answer": "Call EDD at 1-800-300-5616 — they have English and Spanish service, Monday–Friday from 8 a.m. to 5 p.m. Pacific Time. Free interpreter services are also available at that same number.",
+    "topic": "Disaster unemployment assistance (DUA)",
+    "tier": "tier_1_critical",
+    "style": "terse"
+  },
+  {
+    "question": "does fema pay you back for food that spoild when the power went out",
+    "answer": "Unfortunately no — FEMA's Serious Needs Assistance is not a reimbursement for spoiled food or lost power. It's an upfront emergency payment for essentials like food, water, and medication going forward. You can still apply at DisasterAssistance.gov or 1-800-621-3362 if you have other disaster-related needs.",
+    "topic": "Power/utility restoration and outage reporting",
+    "tier": "tier_2_high_volume",
+    "style": "typo"
+  },
+  {
+    "question": "can i use sba loan money to pay off my old busines debts",
+    "answer": "No, EIDL funds cannot be used to refinance existing long-term debt, expand your business, buy fixed assets, pay dividends/bonuses, or repay loans to stockholders. They can be used for working capital like rent, utilities, health benefits, and regular fixed debt payments that came due because of the disaster. If you have physical damage, a separate SBA Physical Disaster Loan covers repairs and replacement.",
+    "topic": "Small business recovery",
+    "tier": "tier_3_moderate",
+    "style": "typo"
+  },
+  {
+    "question": "Hi, I'm a small almond grower in Fresno County and we lost a lot of trees in the storms and flooding this winter. What kind of disaster assistance can I actually apply for as a farmer?",
+    "answer": "I'm sorry for your losses. As an orchard owner, you may qualify for the USDA Tree Assistance Program (TAP), which helps replant or rehabilitate damaged trees, and the Noninsured Crop Disaster Assistance Program (NAP) if your crop wasn't covered by federal crop insurance. FSA Emergency Loans can also cover physical damage and lost production. Call or visit your local USDA Farm Service Agency office in Fresno to start an application, and bring records of your losses, photos, and production history.",
+    "topic": "Agricultural disaster relief for farmers",
+    "tier": "tier_4_long_tail",
+    "style": "conversational"
+  },
+  {
+    "question": "what if i already filed with CEA but havent heard back",
+    "answer": "CEA claims are handled by your residential insurance company (the one that sold you the policy), not CEA directly. If it's been more than a few days, call your insurance agent and ask for your claim number and adjuster's contact. If you're not getting responses, you can file a complaint with the California Department of Insurance at 1-800-927-4357 or insurance.ca.gov. Keep written records of every call.",
+    "topic": "Earthquake-specific recovery steps",
+    "tier": "tier_2_high_volume",
+    "style": "follow_up"
+  },
+  {
+    "question": "hotel said they dont take fema vouchers what do i do",
+    "answer": "FEMA doesn't issue paper vouchers — under the Transitional Sheltering Assistance (TSA) program, FEMA pays participating hotels directly, and you can find the list of approved hotels by calling 1-800-621-3362 or checking your DisasterAssistance.gov account. If you booked elsewhere, save your receipts and apply for Lodging Expense Reimbursement instead. Call FEMA's helpline to be added to TSA or find a participating hotel near you.",
+    "topic": "Temporary housing and shelters",
+    "tier": "tier_1_critical",
+    "style": "typo"
+  },
+  {
+    "question": "hi so my apartment in altadena got smoke damage from the fires and my landlord is saying i still have to pay full rent even though i can't live there right now is that legal?",
+    "answer": "In California, if a rental unit is uninhabitable due to a disaster, you generally do not owe rent for the period you can't live there. Under Civil Code 1942, tenants can withhold rent or repair-and-deduct in some habitability cases. Document the damage with photos, send your landlord a written notice, and contact Disaster Legal Services through 211 or Legal Aid for free help. You may also qualify for FEMA rental assistance at 1-800-621-3362 to cover temporary housing.",
+    "topic": "Renter rights and protections after disaster damage",
+    "tier": "tier_3_moderate",
+    "style": "conversational"
+  },
+  {
+    "question": "is there a deadline for sba loans too",
+    "answer": "Yes. SBA usually sets a 60-day deadline for physical damage loan applications and a 9-month deadline for Economic Injury Disaster Loans after the declaration date. Exact dates vary by disaster — check sba.gov/disaster or call 1-800-659-2955. Apply early; you can decline the loan later if you don't need it.",
+    "topic": "How to apply for disaster aid (eligibility, deadlines)",
+    "tier": "tier_1_critical",
+    "style": "follow_up"
+  },
+  {
+    "question": "do i have to use the appeal form fema sent or can i just write a letter",
+    "answer": "You don't have to use the form — a written letter works fine. Just make sure it explains why you disagree with FEMA's decision and includes any supporting documents. Write your FEMA application number and the disaster number on every page so nothing gets lost.",
+    "topic": "FEMA appeals process",
+    "tier": "tier_3_moderate",
+    "style": "follow_up"
+  },
+  {
+    "question": "How long does it typically take to get a rebuild permit approved after a wildfire in California?",
+    "answer": "Timelines vary by jurisdiction, but expedited disaster rebuild permits in California often take 4–12 weeks once you submit complete plans, compared to 6+ months in normal times. Delays usually come from incomplete plans, septic/well review, or hillside grading issues. To speed things up, use your local Disaster Recovery Permit Center and consider hiring an architect familiar with post-fire rebuilds. Check your county's recovery website for current processing times.",
+    "topic": "Long-term recovery: rebuilding permits and zoning",
+    "tier": "tier_4_long_tail",
+    "style": "grammatical"
+  },
+  {
+    "question": "Are there free counseling services for children affected by California wildfires?",
+    "answer": "Yes. FEMA's Crisis Counseling Assistance and Training Program (CCP) funds free, confidential counseling for disaster survivors including children, often delivered through county behavioral health departments. You can also call the SAMHSA Disaster Distress Helpline at 1-800-985-5990 (24/7, multilingual) or dial 211 to be connected with local children's mental health resources. California's CalHOPE program (calhope.org) specifically offers free disaster-related emotional support.",
+    "topic": "Emotional support for children after a disaster",
+    "tier": "tier_4_long_tail",
+    "style": "grammatical"
+  },
+  {
+    "question": "Is it safe to go back to my property after the fire?",
+    "answer": "Wait until local officials officially announce that your area is safe to re-enter — fires can leave hazards like unstable structures, hot spots, and toxic ash. When you do return, wear an N95 mask, gloves, long sleeves, and sturdy boots. Don't turn on utilities yourself; if the fire department shut off your gas, water, or electricity, only utility crews should restore them.",
+    "topic": "Wildfire-specific recovery steps",
+    "tier": "tier_2_high_volume",
+    "style": "grammatical"
+  },
+  {
+    "question": "can fema help my small business",
+    "answer": "No, FEMA does not provide assistance for small businesses. You'll need to apply with the U.S. Small Business Administration (SBA) instead. SBA offers low-interest disaster loans for both physical damage and economic injury. Call the SBA Disaster Assistance Customer Service Center at 800-659-2955 or apply online at sba.gov/disaster.",
+    "topic": "Small business recovery",
+    "tier": "tier_3_moderate",
+    "style": "terse"
+  },
+  {
+    "question": "I'm an 80 year old widow and a man knocked on my door saying he'd haul away my burned debris for $5000 cash, is this legit?",
+    "answer": "This sounds like a scam — please do not pay or sign anything. Legitimate state debris removal is free to homeowners through the CalRecycle program, and reputable contractors never demand large cash payments door-to-door. Report this person to the Contractors State License Board at 1-800-321-2752 and to local law enforcement. If you'd like help, call 211 to connect with a recovery case manager.",
+    "topic": "Debris and hazardous material removal",
+    "tier": "tier_2_high_volume",
+    "style": "personal_context"
+  },
+  {
+    "question": "How much money does FEMA actually give you?",
+    "answer": "It varies based on your verified losses. FEMA's Individuals and Households Program (IHP) can provide funds for temporary housing, home repairs, and other serious disaster-related needs like medical, dental, childcare, and replacement of essential items. Awards are not loans and don't have to be repaid. The maximum changes each year — check your decision letter for your specific award.",
+    "topic": "FEMA registration and individual assistance",
+    "tier": "tier_1_critical",
+    "style": "grammatical"
+  },
+  {
+    "question": "where do i find a shelter near me",
+    "answer": "Call 211 (or visit 211.org) to be connected to the nearest open disaster shelter. You can also text your ZIP code to 43362 (4FEMA) to find open shelters, or check the Red Cross shelter map at redcross.org/shelter. If you're in immediate danger, call 911.",
+    "topic": "Temporary housing and shelters",
+    "tier": "tier_1_critical",
+    "style": "terse"
+  },
+  {
+    "question": "right of entry form deadline",
+    "answer": "Right-of-Entry (ROE) form deadlines are set by your county after each disaster, usually 30–60 days after the program opens. Submitting the ROE lets state crews access your property to remove debris at no out-of-pocket cost. Contact your county's disaster recovery website or call 211 to confirm the current deadline for your area.",
+    "topic": "Debris and hazardous material removal",
+    "tier": "tier_2_high_volume",
+    "style": "terse"
+  },
+  {
+    "question": "do i need to file with insurance befor fema",
+    "answer": "Yes — FEMA requires you to file with your insurance first, because FEMA cannot duplicate benefits your insurance covers. Go ahead and apply to FEMA at DisasterAssistance.gov or 1-800-621-3362 at the same time, but send FEMA your insurance settlement or denial letter once you have it. FEMA may help with uninsured or underinsured losses after your insurance pays out.",
+    "topic": "Filing insurance claims after a disaster",
+    "tier": "tier_1_critical",
+    "style": "typo"
+  },
+  {
+    "question": "where can i find a food bank near me",
+    "answer": "Call 2-1-1 or visit 211ca.org to find the closest food bank or pantry. You can also use the California Association of Food Banks locator at cafoodbanks.org/find-food. Most food banks don't require ID, proof of income, or immigration status to receive free groceries.",
+    "topic": "Food and water assistance (CalFresh, food banks)",
+    "tier": "tier_2_high_volume",
+    "style": "terse"
+  },
+  {
+    "question": "i already reported my outage yesterday but still nothing what now",
+    "answer": "After major disasters, crews often have to repair transmission lines and substations before individual neighborhoods come back online, so it can take longer than usual. Call your utility again to confirm they have your address flagged (especially if your neighbors have power but you don't — that may mean a separate service line issue). PG&E: 1-800-743-5002, SCE: 1-800-611-1911, SDG&E: 1-800-411-7343.",
+    "topic": "Power/utility restoration and outage reporting",
+    "tier": "tier_2_high_volume",
+    "style": "follow_up"
+  },
+  {
+    "question": "How can I find out when my electricity will be restored after the wildfire?",
+    "answer": "Check your utility's online outage map for an estimated restoration time: PG&E (pge.com/outages), SCE (sce.com/outages), or SDG&E (sdge.com/outages). After major disasters, restoration times can change as crews assess damage. You can also sign up for text/email alerts through your utility account.",
+    "topic": "Power/utility restoration and outage reporting",
+    "tier": "tier_2_high_volume",
+    "style": "grammatical"
+  },
+  {
+    "question": "Can I stay with family and still get FEMA money?",
+    "answer": "Yes. FEMA's Displacement Assistance is flexible — you can use it whether you're in a hotel, staying with family or friends, or any other housing arrangement. You don't have to provide hotel receipts for Displacement Assistance, though Rental Assistance and Lodging Expense Reimbursement do require documentation. Apply at DisasterAssistance.gov or call 1-800-621-3362.",
+    "topic": "Temporary housing and shelters",
+    "tier": "tier_1_critical",
+    "style": "grammatical"
+  },
+  {
+    "question": "is drinking water safe after the fire",
+    "answer": "Don't drink tap water until your local water utility confirms it's safe — wildfires can damage pipes and cause benzene contamination. Check your water provider's website or call them directly. Boil-water notices and Do Not Drink advisories are common after fires. Free bottled water is usually distributed at Local Assistance Centers, evacuation shelters, and through 2-1-1 referrals.",
+    "topic": "Food and water assistance (CalFresh, food banks)",
+    "tier": "tier_2_high_volume",
+    "style": "terse"
+  },
+  {
+    "question": "cant stop crying since the fire what do i do",
+    "answer": "What you're feeling is a normal reaction to a very abnormal event. Please call the SAMHSA Disaster Distress Helpline at 1-800-985-5990 (or text the same number) — it's free, confidential, and available 24/7. You can also dial 988 to reach the Suicide & Crisis Lifeline anytime. If you're in immediate danger, call 911.",
+    "topic": "Mental health and emotional support after a disaster",
+    "tier": "tier_3_moderate",
+    "style": "terse"
+  },
+  {
+    "question": "Will my phone company give me a credit for the days service was out after the wildfire?",
+    "answer": "Often yes. California requires telecom providers to offer bill credits and waive certain fees during declared disasters. Contact your provider directly and ask for a disaster-related service credit, then keep records. If they refuse or you have trouble, file a complaint with the California Public Utilities Commission (CPUC) at cpuc.ca.gov/consumer-support or call 1-800-649-7570.",
+    "topic": "Internet, phone, and communications outages",
+    "tier": "tier_4_long_tail",
+    "style": "grammatical"
+  },
+  {
+    "question": "im undocumented and scared to ask for mental health help for my kids after the fire, is it safe",
+    "answer": "Yes — mental health and crisis counseling services do not ask about immigration status, and FEMA's Crisis Counseling Program is available to everyone regardless of status. The Disaster Distress Helpline (1-800-985-5990, press 2 for Spanish) is free, confidential, anonymous, and multilingual. Community clinics, school counselors, and 211 can also connect your children to free support without immigration questions. Your kids' wellbeing comes first, and reaching out is safe.",
+    "topic": "Emotional support for children after a disaster",
+    "tier": "tier_4_long_tail",
+    "style": "personal_context"
+  },
+  {
+    "question": "how long does FEMA aproval take for housing",
+    "answer": "After you apply, FEMA usually schedules a home inspection within a few days (for damaged homes) and makes a decision within about 7–10 days, though it can take longer in large disasters. Check status anytime at DisasterAssistance.gov or 1-800-621-3362. If you need shelter right now, don't wait — call 211 for emergency housing while your application is reviewed.",
+    "topic": "Temporary housing and shelters",
+    "tier": "tier_1_critical",
+    "style": "typo"
+  },
+  {
+    "question": "i applied for unemployment but got denied does that mean no dua either",
+    "answer": "Not necessarily — getting denied for regular UI is often the first step toward qualifying for DUA. EDD should automatically review your claim for DUA if your area has a presidential disaster declaration. If you haven't heard about DUA, call EDD at 1-800-300-5616 and specifically ask them to evaluate your claim for Disaster Unemployment Assistance.",
+    "topic": "Disaster unemployment assistance (DUA)",
+    "tier": "tier_1_critical",
+    "style": "follow_up"
+  },
+  {
+    "question": "i applied 3 weeks ago and havent heard anything is that normal",
+    "answer": "Yes, that's within the normal range — SBA disaster loan decisions typically take 2-4 weeks once your application is complete, though it can be longer in major disasters. Log into the MySBA Loan Portal at sba.gov to check your status, or call SBA's Disaster Customer Service at 1-800-659-2955. Make sure they have all requested documents — missing paperwork is the most common delay.",
+    "topic": "SBA disaster loans for homeowners and businesses",
+    "tier": "tier_2_high_volume",
+    "style": "follow_up"
+  },
+  {
+    "question": "do i need to bring anything to apply for calfresh",
+    "answer": "Helpful documents include a photo ID, Social Security numbers for household members applying, proof of income (pay stubs), rent/mortgage and utility bills, and proof of any disaster-related expenses. But don't delay applying if you've lost paperwork in the disaster — you can submit documents later or sign sworn statements. Apply at GetCalFresh.org, BenefitsCal.com, or by calling your county office.",
+    "topic": "Food and water assistance (CalFresh, food banks)",
+    "tier": "tier_2_high_volume",
+    "style": "grammatical"
+  },
+  {
+    "question": "what if i already applied to fema as a renter but they denied me",
+    "answer": "Don't give up — many renters are initially denied for fixable reasons like missing documents or identity verification. You have 60 days from the decision letter to appeal in writing. Include a signed letter explaining why you disagree and any supporting documents (lease, receipts, photos). Submit through your DisasterAssistance.gov account, by mail, or by fax. Free help with appeals is available through Disaster Legal Services — call 211 or FEMA at 1-800-621-3362.",
+    "topic": "Renter rights and protections after disaster damage",
+    "tier": "tier_3_moderate",
+    "style": "follow_up"
+  },
+  {
+    "question": "Hi, I'm really overwhelmed. We lost everything in the fire and I haven't even thought about taxes. Do I need to do anything special with the IRS?",
+    "answer": "First, take a breath — the IRS has automatic relief for disaster victims, so you don't need to file anything immediately to get an extension. If your address is in the FEMA-declared disaster area, filing and payment deadlines are postponed automatically. You can also claim your uninsured disaster losses as a casualty loss on either this year's or last year's return (whichever gives you a bigger refund). Call the IRS disaster hotline at 1-866-562-5227 if you need help.",
+    "topic": "Tax filing extensions and disaster tax relief",
+    "tier": "tier_2_high_volume",
+    "style": "conversational"
+  },
+  {
+    "question": "I'm undocumented and afraid to go to a shelter but my dog needs care after smoke inhalation, is there somewhere safe?",
+    "answer": "You will not be asked about immigration status at disaster shelters or animal services — they are open to everyone. For your dog, contact your local Humane Society, SPCA, or county Animal Services; many offer free emergency vet care for disaster-affected pets, no questions asked. RedRover Relief (redrover.org) also provides urgent vet care grants. Call 2-1-1 confidentially for a referral to the closest free clinic.",
+    "topic": "Pet-friendly shelters and veterinary assistance",
+    "tier": "tier_4_long_tail",
+    "style": "personal_context"
+  },
+  {
+    "question": "Is there a deadline to register with FEMA?",
+    "answer": "Yes — typically 60 days from the date the disaster is declared, though deadlines are sometimes extended. Check the specific deadline for your disaster at DisasterAssistance.gov or call 1-800-621-3362. Don't wait — register as soon as you safely can.",
+    "topic": "FEMA registration and individual assistance",
+    "tier": "tier_1_critical",
+    "style": "grammatical"
+  },
+  {
+    "question": "I'm 78 and live alone in Napa. The earthquake broke a lot of things in my house and I'm scared. Who can help me clean up?",
+    "answer": "You're not alone — help is available. Call 211 (free, 24/7) and tell them you're a senior who needs cleanup and recovery assistance; they can connect you with local volunteer groups, the Red Cross, and senior services. The Red Cross (1-800-733-2767) often provides cleanup kits and welfare checks. If a federal disaster has been declared, FEMA's Disaster Case Management can assign someone to help walk you through recovery — call 1-800-621-3362.",
+    "topic": "Earthquake-specific recovery steps",
+    "tier": "tier_2_high_volume",
+    "style": "personal_context"
+  },
+  {
+    "question": "I'm undocumented and lost all my papers in the flood. Is it safe for me to go to the county office to get my kids' birth certificates replaced?",
+    "answer": "Yes — county recorder offices issue birth certificates regardless of the parent's immigration status, and they do not share information with immigration enforcement. If your children were born in California, you can request their certified birth certificates from the county recorder where they were born, or from CA Vital Records (cdph.ca.gov). FEMA also has disaster assistance available for U.S. citizen children even if parents are undocumented — call 1-800-621-3362. For free legal help, contact 211 or CHIRLA at 1-888-624-4752.",
+    "topic": "Document replacement (ID, birth certificate, DMV)",
+    "tier": "tier_2_high_volume",
+    "style": "personal_context"
+  },
+  {
+    "question": "earthquake just hit what do i do first",
+    "answer": "First, check yourself and others for injuries — call 911 for medical emergencies. Stay alert for aftershocks, and if you smell gas or see damage to gas lines, shut off the gas at the meter. Do not re-enter damaged buildings until local officials say it's safe. Call 211 for shelter, food, and disaster relief info.",
+    "topic": "Earthquake-specific recovery steps",
+    "tier": "tier_2_high_volume",
+    "style": "terse"
+  },
+  {
+    "question": "i applied for the sba loan 3 weeks ago and havent heard anything what do i do",
+    "answer": "That's within the normal review window, but you can check your status anytime by logging into your SBA disaster loan account at sba.gov/disaster or by calling the Customer Service Center at 800-659-2955. After your application is submitted, SBA usually sends an inspector to estimate damages, which can add time. Have your application number ready when you call.",
+    "topic": "Small business recovery",
+    "tier": "tier_3_moderate",
+    "style": "follow_up"
+  },
+  {
+    "question": "how do i get rental assistance from fema",
+    "answer": "Apply at DisasterAssistance.gov, on the FEMA mobile app, or call 1-800-621-3362. If approved, FEMA sends Rental Assistance as a lump sum to cover temporary rent (and deposit/utilities) while your home is being repaired. You'll need to show you used the money for housing and can request continued rental assistance every 1–3 months if you still need it.",
+    "topic": "Temporary housing and shelters",
+    "tier": "tier_1_critical",
+    "style": "terse"
+  },
+  {
+    "question": "how do i report an unlicensed contractor",
+    "answer": "Report unlicensed contractors to the Contractors State License Board (CSLB) at 1-800-321-2752 or through the Disaster Help Center at cslb.ca.gov/Media_Room/Disaster_Help_Center. If you saw them working at a job site, use the 'Report Unlawful Activity' link. If you hired them, file a 'Licensed and Unlicensed Project Complaint.' Reports can be anonymous.",
+    "topic": "Contractor licensing and avoiding post-disaster fraud",
+    "tier": "tier_3_moderate",
+    "style": "terse"
+  },
+  {
+    "question": "my teenager is acting out and angry since we lost our home, is this from the trama",
+    "answer": "Yes — anger, irritability, and acting out are common trauma responses in teens after losing a home. Let them know their feelings are valid, keep listening without judgment, maintain routines, and watch for warning signs like substance use or talk of self-harm. Free help is available: call or text the Disaster Distress Helpline at 1-800-985-5990, or the 988 Suicide & Crisis Lifeline if you're worried about their safety. CalHOPE also has peer support tailored to teens.",
+    "topic": "Emotional support for children after a disaster",
+    "tier": "tier_4_long_tail",
+    "style": "typo"
+  },
+  {
+    "question": "Hi, I own a small bakery in Altadena and we had to close for weeks because of the fires and evacuations. We didn't have direct damage but we lost a ton of business. Is there anything I can apply for?",
+    "answer": "Yes — you may qualify for an SBA Economic Injury Disaster Loan (EIDL), which is designed exactly for situations like yours, where a business in a declared disaster area can't meet its normal operating expenses. EIDL funds can cover working capital like rent, utilities, payroll, and fixed debts. The first payment is deferred 12 months with no interest accruing during that time, and the interest rate is capped at 4%. Apply online at sba.gov/disaster or call 800-659-2955.",
+    "topic": "Small business recovery",
+    "tier": "tier_3_moderate",
+    "style": "conversational"
+  },
+  {
+    "question": "what if i already applied to fema but havent heard anything",
+    "answer": "Log in to your account at DisasterAssistance.gov or call 1-800-621-3362 to check your application status. FEMA usually schedules a home inspection within a couple of weeks of applying, and decisions come by mail or through your online account. If you've been waiting more than a few weeks with no contact, call them directly — sometimes missing documents or an unverified identity is holding things up.",
+    "topic": "Wildfire-specific recovery steps",
+    "tier": "tier_2_high_volume",
+    "style": "follow_up"
+  },
+  {
+    "question": "Hi, our basement and first floor got flooded last week and we have an NFIP policy through our mortgage, I've never filed a claim before and I'm honestly really overwhelmed, where do I even begin?",
+    "answer": "Take a breath — here's the order: 1) Call your flood insurance agent or carrier now to report the loss and get a claim number. 2) Before throwing anything out, photograph and video every damaged room and item. 3) Make a written inventory with descriptions and approximate values. 4) An adjuster will be assigned to inspect — you can start safe cleanup and save damaged samples (like carpet swatches). For questions about NFIP, call 1-877-336-2627.",
+    "topic": "Flood insurance and NFIP claims",
+    "tier": "tier_3_moderate",
+    "style": "conversational"
+  },
+  {
+    "question": "hi so my small bakery burned down in the wildfire and i'm trying to figure out if i can get an sba loan to cover my lost income while we rebuild, is that a thing?",
+    "answer": "Yes — SBA offers Economic Injury Disaster Loans (EIDL) to help small businesses cover operating expenses (payroll, rent, bills) they could have met if the disaster hadn't happened. You can also apply for a Business Physical Disaster Loan to repair or replace the building and equipment. Start at sba.gov/disaster or call 1-800-659-2955 to apply.",
+    "topic": "SBA disaster loans for homeowners and businesses",
+    "tier": "tier_2_high_volume",
+    "style": "conversational"
+  },
+  {
+    "question": "where do i take my horses to evacuate",
+    "answer": "Contact your county Animal Services or fairgrounds — many California fairgrounds (like Pomona, Ventura, and Del Mar) open as large animal evacuation sites during disasters. Call 211 for current shelter locations in your area, and check your county Office of Emergency Services social media for real-time updates. If you can't trailer them yourself, county animal control and groups like the Humane Society or local CART (County Animal Response Teams) can help with rescue.",
+    "topic": "Livestock and large animal evacuation and recovery",
+    "tier": "tier_4_long_tail",
+    "style": "terse"
+  },
+  {
+    "question": "Does FEMA pay for a hotel if my house is unlivable?",
+    "answer": "Yes. FEMA's Lodging Expense Reimbursement can reimburse you for hotel or motel costs while you're displaced, and Displacement Assistance provides upfront money you can use for a hotel, to stay with family, or other housing. You must apply at DisasterAssistance.gov or 1-800-621-3362, and save all your receipts. This is only available if your home is in a federally declared disaster area.",
+    "topic": "Temporary housing and shelters",
+    "tier": "tier_1_critical",
+    "style": "grammatical"
+  },
+  {
+    "question": "How much does it cost to get well water tested after a flood in California?",
+    "answer": "A basic bacterial test (total coliform/E. coli) typically runs $30–$75 through a state-certified lab. Tests for chemicals, nitrates, or heavy metals cost more. After a federally declared disaster, some counties offer free or reduced-cost testing — check with your county environmental health department or call 211. The State Water Resources Control Board keeps a list of certified labs (ELAP) on its website.",
+    "topic": "Water quality testing after flooding",
+    "tier": "tier_4_long_tail",
+    "style": "grammatical"
+  },
+  {
+    "question": "do i have to file with insuance first before fema will help with my truck",
+    "answer": "Yes — FEMA is the payer of last resort, so you need to file with your auto insurance first (comprehensive coverage typically covers fire, flood, and falling debris). Once you have a settlement or denial letter, submit it to FEMA. If insurance doesn't fully cover the loss or you were uninsured, FEMA's Transportation Assistance or an SBA disaster loan may help fill the gap.",
+    "topic": "Replacing a car or vehicle damaged in disaster",
+    "tier": "tier_4_long_tail",
+    "style": "typo"
+  },
+  {
+    "question": "Does FEMA cover livestock losses from a wildfire?",
+    "answer": "FEMA's Individual Assistance generally does not cover livestock losses, but the USDA Farm Service Agency (FSA) does through the Livestock Indemnity Program (LIP) for animals killed by disaster, and the Emergency Livestock Assistance Program (ELAP) for feed, water, and transport losses. Contact your local FSA county office within 30 days of the loss and document deaths with photos, vet records, and inventory lists. California ranchers may also qualify for SBA disaster loans for damaged barns, fencing, and equipment.",
+    "topic": "Livestock and large animal evacuation and recovery",
+    "tier": "tier_4_long_tail",
+    "style": "grammatical"
+  },
+  {
+    "question": "Hi, my family just lost everything in the wildfire and I honestly don't even know where to start, can you walk me through the steps?",
+    "answer": "I'm so sorry you're going through this. Here's a basic roadmap: (1) Get to safety and call 211 for shelter, food, and local resources. (2) Contact your insurance company to open a claim. (3) Apply for FEMA assistance at DisasterAssistance.gov or 1-800-621-3362 — this can cover temporary housing and other needs. (4) Once your area is cleared, sign up for CalRecycle's debris removal program (usually free for eligible homeowners). (5) Visit a Local Assistance Center if one opens in your area — they bring all the agencies together in one place.",
+    "topic": "Wildfire-specific recovery steps",
+    "tier": "tier_2_high_volume",
+    "style": "conversational"
+  },
+  {
+    "question": "fema denied me how do i appeal",
+    "answer": "You have 60 days from the date on your FEMA decision letter to appeal. Read the letter carefully — it tells you exactly what documents FEMA needs (like repair estimates, receipts, or proof of ownership). Submit your appeal online at DisasterAssistance.gov, by mail to FEMA at P.O. Box 10055, Hyattsville, MD 20782-8055, by fax to (800) 827-8112, or in person at a Disaster Recovery Center. Call 1-800-621-3362 if you need help.",
+    "topic": "FEMA appeals process",
+    "tier": "tier_3_moderate",
+    "style": "terse"
+  },
+  {
+    "question": "I'm an undocumented mom and I'm scared to enroll my kids in a new school while ours is closed, is it safe?",
+    "answer": "Yes — California public schools must enroll all children regardless of immigration status, and schools are not allowed to ask about or share immigration information. Displaced students have the right to immediate enrollment under the McKinney-Vento Act, even without records or proof of address. Contact the district's homeless/displaced student liaison for help getting your kids placed quickly.",
+    "topic": "School closures and re-opening",
+    "tier": "tier_3_moderate",
+    "style": "personal_context"
+  },
+  {
+    "question": "what if i already filed the claim but the adjuster hasnt come out yet",
+    "answer": "That's common after major floods when adjusters are backed up. In the meantime: keep documenting damage with photos/video, save receipts for any emergency repairs or temporary lodging, and don't throw out damaged items until the adjuster sees them (or keep samples). If it's been more than a couple weeks with no contact, call your insurance carrier directly and ask for a status update and your adjuster's name and number.",
+    "topic": "Flood insurance and NFIP claims",
+    "tier": "tier_3_moderate",
+    "style": "follow_up"
+  },
+  {
+    "question": "hi my house burned down in the fire and i don't even know where to start, what do i do first?",
+    "answer": "I'm so sorry you're going through this. First, if you have insurance, file a claim with them right away — FEMA needs that info. Then register with FEMA at DisasterAssistance.gov or by calling 1-800-621-3362. Take photos of the damage and make a list of what you lost. FEMA's Individuals and Households Program (IHP) can help with temporary housing, repairs, and other serious needs.",
+    "topic": "FEMA registration and individual assistance",
+    "tier": "tier_1_critical",
+    "style": "conversational"
+  },
+  {
+    "question": "What classification of contractor license do I need to look for when rebuilding my home after a wildfire?",
+    "answer": "For a full home rebuild, hire a licensed General Building Contractor (Class B). Specialty work like roofing (C-39), electrical (C-10), or plumbing (C-36) requires the matching specialty classification. Verify the classification matches the work on CSLB's License Check tool, and make sure the license is active with workers' comp coverage.",
+    "topic": "Contractor licensing and avoiding post-disaster fraud",
+    "tier": "tier_3_moderate",
+    "style": "grammatical"
+  },
+  {
+    "question": "how do i start a flood insurance claim",
+    "answer": "Contact your flood insurance agent or carrier as soon as possible to file a Notice of Loss. Before cleaning up, take photos and videos of all damage and make a list of damaged items with their value. For NFIP-specific help, call 1-877-336-2627 or visit floodsmart.gov/recover.",
+    "topic": "Flood insurance and NFIP claims",
+    "tier": "tier_3_moderate",
+    "style": "terse"
+  },
+  {
+    "question": "Does standard homeowners insurance cover earthquake damage in California?",
+    "answer": "No. Standard homeowners and renters policies in California do not cover earthquake damage. You need a separate earthquake policy, most commonly through the California Earthquake Authority (CEA) via your existing insurer. If you have a CEA policy, contact your insurance agent right away to start a claim. If you're uninsured, you may still qualify for FEMA assistance if a federal disaster is declared — apply at DisasterAssistance.gov or call 1-800-621-3362.",
+    "topic": "Earthquake-specific recovery steps",
+    "tier": "tier_2_high_volume",
+    "style": "grammatical"
+  },
+  {
+    "question": "i submitted my appeal like 3 weeks ago and havent heard anything is that normal",
+    "answer": "Yes, that's within the normal window. FEMA usually decides appeals within 30 days but it can take up to 90 days. You can check the status by logging into your DisasterAssistance.gov account or calling the FEMA Helpline at 1-800-621-3362. If they need more info from you, they'll reach out — so keep an eye on your mail and account messages.",
+    "topic": "FEMA appeals process",
+    "tier": "tier_3_moderate",
+    "style": "follow_up"
+  },
+  {
+    "question": "so i own a small food truck and i couldnt operate after the fires shut down the area do i count as self employed for DUA",
+    "answer": "Yes — small business owners and self-employed people like food truck operators are exactly who DUA is designed to help when regular UI isn't an option. Apply through myEDD or call 1-800-300-5616. Have your business records, tax returns (Schedule C or SE), and any documentation showing your truck couldn't operate due to the disaster.",
+    "topic": "Disaster unemployment assistance (DUA)",
+    "tier": "tier_1_critical",
+    "style": "conversational"
+  },
+  {
+    "question": "replace social security card",
+    "answer": "Request a free replacement Social Security card at ssa.gov/myaccount (most people can do it fully online) or call 1-800-772-1213. If you can't use the online service, visit your local SSA office — you can find it at ssa.gov/locator. You'll need some form of identity proof, but SSA can work with you if your ID was destroyed in the disaster.",
+    "topic": "Document replacement (ID, birth certificate, DMV)",
+    "tier": "tier_2_high_volume",
+    "style": "terse"
+  },
+  {
+    "question": "do renters qualify for sba loans",
+    "answer": "Yes — renters can apply for an SBA disaster loan of up to $100,000 to replace personal property damaged or destroyed in a declared disaster (clothing, furniture, appliances, vehicles, etc.). You don't have to own a home or business. Apply at sba.gov/disaster.",
+    "topic": "SBA disaster loans for homeowners and businesses",
+    "tier": "tier_2_high_volume",
+    "style": "terse"
+  },
+  {
+    "question": "how long does debre removal take after i sign the form",
+    "answer": "Once you submit your Right-of-Entry form, it typically takes several weeks to a few months before crews reach your property, depending on how many properties are in the queue and site accessibility. Phase 1 (household hazardous waste) usually happens first across the whole disaster area, then Phase 2 (structural debris) is scheduled property by property. Your county will notify you before crews arrive.",
+    "topic": "Debris and hazardous material removal",
+    "tier": "tier_2_high_volume",
+    "style": "typo"
+  },
+  {
+    "question": "how long do i need to wait before testing my well after floodwaters reseed",
+    "answer": "Wait until floodwaters have fully receded and the well has been disinfected (shock chlorinated), then flush the system until you no longer smell chlorine — usually a few days. Collect your water sample after that and send it to a state-certified lab. Don't drink the water until results come back clean for total coliform and E. coli. Your county environmental health office can walk you through the steps.",
+    "topic": "Water quality testing after flooding",
+    "tier": "tier_4_long_tail",
+    "style": "typo"
+  },
+  {
+    "question": "can i upload documents online instead of mailing",
+    "answer": "Yes — uploading is the fastest way. Log into your account at DisasterAssistance.gov and use the Upload Center to send documents. Be sure your FEMA application number and disaster number are on every page. You can also fax to (800) 827-8112 or mail to FEMA, P.O. Box 10055, Hyattsville, MD 20782-8055.",
+    "topic": "FEMA registration and individual assistance",
+    "tier": "tier_1_critical",
+    "style": "terse"
+  },
+  {
+    "question": "car burned up in the fire can fema replace it",
+    "answer": "FEMA may provide some assistance for vehicle repair or replacement under its Transportation Assistance category, but only if the vehicle was damaged by the disaster, you have no other working vehicle, and it's needed for daily use. First, file a claim with your auto insurance (comprehensive coverage usually covers fire). Then register with FEMA at 1-800-621-3362 or DisasterAssistance.gov. You can also apply for an SBA disaster loan to cover the gap.",
+    "topic": "Replacing a car or vehicle damaged in disaster",
+    "tier": "tier_4_long_tail",
+    "style": "terse"
+  },
+  {
+    "question": "i applied for fema but they want me to send id and i dont have any id anymore what do i do",
+    "answer": "Tell FEMA — call 1-800-621-3362. FEMA can often verify your identity through other means (like answering security questions or using public records) so you don't get stuck. In the meantime, start replacing your ID: dmv.ca.gov for a driver's license/ID (fees often waived in disasters), and ssa.gov for a Social Security card. You can upload any documents you do gather to your account at DisasterAssistance.gov.",
+    "topic": "Document replacement (ID, birth certificate, DMV)",
+    "tier": "tier_2_high_volume",
+    "style": "follow_up"
+  },
+  {
+    "question": "how do i prove i own my home if i lost the paperwork in the fire",
+    "answer": "FEMA accepts many alternatives: property tax bills, mortgage statements, home insurance policies, a deed, or even a public official's letter. If those are gone too, you can submit a self-declarative statement as a last resort. County recorder offices can also provide copies of your deed. Call 1-800-621-3362 if you need guidance on what will work for your situation.",
+    "topic": "FEMA registration and individual assistance",
+    "tier": "tier_1_critical",
+    "style": "conversational"
+  },
+  {
+    "question": "How do I claim a casualty loss for property destroyed in a California wildfire?",
+    "answer": "File IRS Form 4684 (Casualties and Thefts) with your federal return to claim uninsured or unreimbursed disaster losses. Because California wildfires are federally declared disasters, you can choose to deduct the loss on the tax year the disaster happened OR amend the prior year's return for a faster refund. Keep records of property value, insurance payouts, and FEMA assistance. See IRS Publication 547 for details.",
+    "topic": "Tax filing extensions and disaster tax relief",
+    "tier": "tier_2_high_volume",
+    "style": "grammatical"
+  },
+  {
+    "question": "what if my lot is now in a new flood zone after the fire, do i have to elevate when i rebuild",
+    "answer": "Possibly yes. Post-fire watersheds often get remapped into higher flood or debris-flow risk zones, and if your property is now in a Special Flood Hazard Area, FEMA's NFIP 'substantial damage' rules require you to rebuild to current floodplain standards — which can mean elevating the structure. FloodSmart.gov's 'Rebuild Better' guidance explains the requirements. Check with your local floodplain administrator (usually at the city/county building department) before finalizing plans, since building noncompliant could make you ineligible for future flood insurance claims.",
+    "topic": "Long-term recovery: rebuilding permits and zoning",
+    "tier": "tier_4_long_tail",
+    "style": "follow_up"
+  },
+  {
+    "question": "can i rebuild bigger than my old house was",
+    "answer": "Often yes — many California jurisdictions allow up to 10% additional square footage on a like-for-like rebuild without triggering full discretionary review, but anything beyond that usually requires standard planning approval and may need to meet current setback, height, and zoning rules. Coastal Zone, hillside, and WUI areas have extra restrictions. Ask your local planning department about their post-disaster rebuild ordinance before drawing up bigger plans.",
+    "topic": "Long-term recovery: rebuilding permits and zoning",
+    "tier": "tier_4_long_tail",
+    "style": "terse"
+  },
+  {
+    "question": "I'm undocumented but my kids are US citizens, can I still apply for FEMA?",
+    "answer": "Yes. If at least one person in your household is a U.S. citizen, non-citizen national, or qualified non-citizen (including children with Social Security numbers), your household may apply for FEMA assistance. You can apply on behalf of your minor child. FEMA does not share immigration status info with ICE for assistance purposes.",
+    "topic": "FEMA registration and individual assistance",
+    "tier": "tier_1_critical",
+    "style": "personal_context"
+  },
+  {
+    "question": "i already called 211 but they just gave me a list i still feel awful",
+    "answer": "I'm sorry — a list isn't always what you need in the moment. Try calling or texting the Disaster Distress Helpline directly at 1-800-985-5990; a real crisis counselor will talk with you right then, no appointment needed. If you'd like ongoing support, ask your county behavioral health department specifically about the FEMA Crisis Counseling Program — they assign counselors who follow up with you. And dial 988 anytime you feel unsafe.",
+    "topic": "Mental health and emotional support after a disaster",
+    "tier": "tier_3_moderate",
+    "style": "follow_up"
+  },
+  {
+    "question": "can i buy pet food with calfresh or is there help for that too",
+    "answer": "CalFresh/EBT cannot be used for pet food. However, many food banks distribute free pet food, and organizations like the SPCA, Humane Society, and local animal shelters often run pet food pantries — especially after disasters. Call 2-1-1 to find pet food assistance in your area, and the Red Cross often includes pet supplies at disaster shelters.",
+    "topic": "Food and water assistance (CalFresh, food banks)",
+    "tier": "tier_2_high_volume",
+    "style": "follow_up"
+  },
+  {
+    "question": "Can I get a passport replaced if it burned in the fire?",
+    "answer": "Yes. Apply for a replacement at travel.state.gov by filing form DS-64 (report lost/stolen) and DS-11 (new application) at an acceptance facility, usually a post office or library. The standard fee is $130 plus a $35 execution fee. If you need it urgently for a disaster-related reason, request expedited service. The State Department occasionally waives fees for major disasters — ask when you apply.",
+    "topic": "Document replacement (ID, birth certificate, DMV)",
+    "tier": "tier_2_high_volume",
+    "style": "grammatical"
+  },
+  {
+    "question": "who do i call about gas smell after earthquake",
+    "answer": "Leave the area immediately, don't use any switches or phones inside, and once you're safely outside call 911 and your gas utility: PG&E 1-800-743-5000, SoCalGas 1-800-427-2200, or SDG&E 1-800-411-7343. Do not go back in until the utility says it's safe.",
+    "topic": "Power/utility restoration and outage reporting",
+    "tier": "tier_2_high_volume",
+    "style": "terse"
+  },
+  {
+    "question": "will i lose my house if i take out an sba disaster loan",
+    "answer": "Not necessarily. Collateral is only required for SBA disaster loans over $50,000, and for loans of $200,000 or less, SBA will not require your primary residence as collateral if you have other assets of equal value. Real estate is the preferred collateral when it is required. You can discuss specifics with an SBA loan officer at 800-659-2955.",
+    "topic": "Small business recovery",
+    "tier": "tier_3_moderate",
+    "style": "personal_context"
+  },
+  {
+    "question": "I'm undocumented and my family lost our apartment in the fire — can we still get any disaster help?",
+    "answer": "You may still qualify. FEMA can provide assistance if at least one member of your household is a U.S. citizen, non-citizen national, or qualified non-citizen (this includes a child born in the U.S.). FEMA does not share immigration status with ICE. Even if you don't qualify for FEMA, you can get help from the Red Cross, 211, local nonprofits, and state programs regardless of status. Disaster legal aid is also free — call 211 to be referred.",
+    "topic": "How to apply for disaster aid (eligibility, deadlines)",
+    "tier": "tier_1_critical",
+    "style": "personal_context"
+  },
+  {
+    "question": "how long does it take to get a new license in the mail from dmv",
+    "answer": "DMV says you should receive your new driver's license or ID card in the mail within 3 to 4 weeks after your office visit. If it hasn't arrived after 60 days, check status at dmv.ca.gov under \"Driver's License & ID Card Status\" or call 1-800-777-0133. The DMV will give you a temporary paper license to use in the meantime.",
+    "topic": "Document replacement (ID, birth certificate, DMV)",
+    "tier": "tier_2_high_volume",
+    "style": "terse"
+  },
+  {
+    "question": "Does FEMA pay for mold removal after a disaster?",
+    "answer": "FEMA doesn't have a dedicated 'mold' program, but its Clean and Sanitize assistance (part of Other Needs Assistance) provides a one-time payment to help prevent additional damage and health risks, which can include mold cleanup. Home Repair Assistance may also cover repairs to mold-damaged structural areas if the damage was caused by the declared disaster. Apply at DisasterAssistance.gov or call 1-800-621-3362, and document the damage with photos.",
+    "topic": "Mold remediation guidance",
+    "tier": "tier_4_long_tail",
+    "style": "grammatical"
+  },
+  {
+    "question": "difference between flood insurance and homeowners",
+    "answer": "Standard homeowners insurance does NOT cover flood damage from rising water, mudflow, or storm surge — you need a separate flood policy, usually through the NFIP. Homeowners typically covers wind, fire, and interior water damage from things like burst pipes. If you're unsure what you have, call your agent and ask specifically about flood coverage.",
+    "topic": "Flood insurance and NFIP claims",
+    "tier": "tier_3_moderate",
+    "style": "terse"
+  },
+  {
+    "question": "What is the maximum amount I can borrow from the SBA after a disaster?",
+    "answer": "The maximum combined SBA disaster loan amount for a business is $2 million across both the Economic Injury Disaster Loan (EIDL) and the Physical Disaster Loan. The actual amount you're approved for depends on your demonstrated financial need and ability to repay. Loans over $50,000 require collateral. Apply at sba.gov/disaster or call 800-659-2955.",
+    "topic": "Small business recovery",
+    "tier": "tier_3_moderate",
+    "style": "grammatical"
+  },
+  {
+    "question": "what if my insurance company is taking forever to respond",
+    "answer": "Under California law, insurers must acknowledge your claim within 15 days and accept or deny it within 40 days of receiving proof of loss. If they're stalling, send a written follow-up, keep a log of every call (date, name, what was said), and file a complaint with the California Department of Insurance at 1-800-927-4357 or insurance.ca.gov. You can also request an advance payment for ALE and contents while the full claim is processed.",
+    "topic": "Filing insurance claims after a disaster",
+    "tier": "tier_1_critical",
+    "style": "follow_up"
+  },
+  {
+    "question": "daycare closed too what do i do",
+    "answer": "FEMA's Other Needs Assistance can provide money for new or increased child care expenses caused by the disaster — apply at DisasterAssistance.gov or 1-800-621-3362. The California Child Care Resource & Referral Network (rrnetwork.org or 1-800-543-7793) can help you find open licensed providers nearby. Call 211 for emergency child care resources in your county.",
+    "topic": "School closures and re-opening",
+    "tier": "tier_3_moderate",
+    "style": "terse"
+  },
+  {
+    "question": "wheres the sba application",
+    "answer": "Apply online at sba.gov/disaster — click \"Apply for a disaster loan.\" You can also call 1-800-659-2955 (TTY 1-800-877-8339) or visit a local Disaster Recovery Center for in-person help. Have your insurance info, income documents, and property details ready.",
+    "topic": "SBA disaster loans for homeowners and businesses",
+    "tier": "tier_2_high_volume",
+    "style": "typo"
+  },
+  {
+    "question": "can small business owners get disaster help",
+    "answer": "Yes. Small businesses can apply for SBA disaster loans at sba.gov/disaster — physical damage loans up to $2 million for repairs and Economic Injury Disaster Loans (EIDL) to cover operating expenses you can't meet because of the disaster. Call SBA at 1-800-659-2955 for help. Private nonprofits are also eligible.",
+    "topic": "How to apply for disaster aid (eligibility, deadlines)",
+    "tier": "tier_1_critical",
+    "style": "terse"
+  },
+  {
+    "question": "I'm 78 and lost my home in the Eaton fire. A man came to my door offering to clear debris cheap if I pay him half upfront in cash. My son is worried.",
+    "answer": "Your son is right to be worried — this has all the warning signs of disaster fraud targeting seniors. Do NOT pay cash up front. In California, down payments are capped at 10% or $1,000, whichever is less. Ask for his license number and verify it at cslb.ca.gov, or call CSLB at 1-800-321-2752. If you qualify, the government-sponsored debris removal program may clear your lot at no out-of-pocket cost — check with your county.",
+    "topic": "Contractor licensing and avoiding post-disaster fraud",
+    "tier": "tier_3_moderate",
+    "style": "personal_context"
+  },
+  {
+    "question": "Where can I get a tetanus shot after cleaning up debris from my flooded house?",
+    "answer": "Most urgent care clinics, county public health clinics, and many pharmacies (CVS, Walgreens) offer tetanus boosters as walk-ins. After a disaster, counties often set up free vaccination sites at Local Assistance Centers — call 211 to find one near you. A booster is recommended if your last shot was more than 5 years ago and you have a wound, or 10 years for routine protection.",
+    "topic": "Medical needs, prescriptions, and hospital access",
+    "tier": "tier_3_moderate",
+    "style": "grammatical"
+  },
+  {
+    "question": "can FEMA help pay for earthquake damage if i dont have earthquake insurance",
+    "answer": "Possibly. If the President declares a federal disaster for your area, FEMA's Individuals and Households Program (IHP) can provide grants for temporary housing, home repairs, and other serious needs not covered by insurance. Apply at DisasterAssistance.gov, on the FEMA app, or by calling 1-800-621-3362. Note that FEMA assistance is typically less than full repair costs — you may also qualify for a low-interest SBA disaster loan.",
+    "topic": "Earthquake-specific recovery steps",
+    "tier": "tier_2_high_volume",
+    "style": "grammatical"
+  },
+  {
+    "question": "can i get an sba loan if i alredy got fema money",
+    "answer": "Yes. SBA disaster loans are designed to cover losses NOT fully covered by insurance or FEMA. In fact, FEMA often refers applicants to SBA first — if you're denied or under-funded by SBA, you may then qualify for additional FEMA grants. Applying for both is encouraged.",
+    "topic": "SBA disaster loans for homeowners and businesses",
+    "tier": "tier_2_high_volume",
+    "style": "typo"
+  },
+  {
+    "question": "How does an SBA disaster loan work for replacing a vehicle destroyed in a wildfire?",
+    "answer": "The SBA offers low-interest disaster loans to homeowners and renters of up to $100,000 for personal property, which includes replacing a vehicle damaged or destroyed in a declared disaster. The vehicle must have been used for personal (not business) transportation and the loss must not be covered by insurance or FEMA. Apply at sba.gov/disaster after registering with FEMA. Business vehicles can be covered under a separate physical damage business loan up to $2 million.",
+    "topic": "Replacing a car or vehicle damaged in disaster",
+    "tier": "tier_4_long_tail",
+    "style": "grammatical"
+  },
+  {
+    "question": "how do i get the ash and debri cleaned up from my lot",
+    "answer": "California has a state-run debris removal program through CalRecycle and Cal OES that's typically free to eligible homeowners after a major wildfire. You'll need to submit a Right-of-Entry (ROE) form through your county — watch for announcements from your local Public Works or Environmental Health department. Don't try to clean up wildfire ash yourself; it contains heavy metals and other toxic materials.",
+    "topic": "Wildfire-specific recovery steps",
+    "tier": "tier_2_high_volume",
+    "style": "typo"
+  },
+  {
+    "question": "Will applying for disaster aid affect my green card application under the public charge rule?",
+    "answer": "No. Disaster relief — including FEMA assistance, food banks, shelter, and Disaster Unemployment Assistance — is not counted under the public charge rule. USCIS has confirmed that emergency disaster relief does not affect green card or visa applications. You can safely seek help without immigration consequences.",
+    "topic": "Resources for undocumented / mixed-status families",
+    "tier": "tier_4_long_tail",
+    "style": "grammatical"
+  },
+  {
+    "question": "Hi, I'm really shaken up — there was a big earthquake last night and my house has cracks in the walls and the chimney looks like it's leaning. I don't know if it's safe to stay. What should I do?",
+    "answer": "I'm sorry you're dealing with this. Do not stay in the home if you see structural damage like a leaning chimney — that can collapse in an aftershock. Leave the building, turn off the gas if you smell any leak, and contact your local building department for a safety inspection (many cities offer free post-earthquake inspections). Call 211 to find emergency shelter, and start documenting damage with photos for your insurance claim.",
+    "topic": "Earthquake-specific recovery steps",
+    "tier": "tier_2_high_volume",
+    "style": "conversational"
+  },
+  {
+    "question": "how do i apply for fema",
+    "answer": "You can apply for FEMA disaster assistance three ways: online at DisasterAssistance.gov, through the FEMA mobile app, or by calling 1-800-621-3362 (TTY 1-800-462-7585). Have your Social Security number, insurance info, address of the damaged property, and a description of damage ready. Apply as soon as possible after a disaster is declared in your area.",
+    "topic": "How to apply for disaster aid (eligibility, deadlines)",
+    "tier": "tier_1_critical",
+    "style": "terse"
+  },
+  {
+    "question": "What is the difference between regular unemployment and DUA?",
+    "answer": "Regular Unemployment Insurance (UI) is for workers who lost W-2 jobs and have enough recent wages on file with EDD. Disaster Unemployment Assistance (DUA) is a federal program that covers people who don't qualify for regular UI — like the self-employed, farmers, or those who just started a job — when a presidentially declared disaster causes them to lose work. EDD will first check if you qualify for regular UI; if not, they'll consider you for DUA.",
+    "topic": "Disaster unemployment assistance (DUA)",
+    "tier": "tier_1_critical",
+    "style": "grammatical"
+  },
+  {
+    "question": "power out how do i report",
+    "answer": "Report the outage directly to your utility: PG&E at 1-800-743-5002, Southern California Edison at 1-800-611-1911, or SDG&E at 1-800-411-7343. You can also report and track outages on their websites or apps. If you see downed power lines, stay back and call 911.",
+    "topic": "Power/utility restoration and outage reporting",
+    "tier": "tier_2_high_volume",
+    "style": "terse"
+  },
+  {
+    "question": "How can I make sure my monetary donation actually goes to California wildfire survivors?",
+    "answer": "Give to established organizations with a track record in California disaster response — examples include the California Community Foundation's Wildfire Recovery Fund, the American Red Cross, Direct Relief, and local community foundations in the affected county. Verify charities on CharityNavigator.org or the CA Attorney General's Registry of Charitable Trusts before donating. Avoid donating through unsolicited social media posts or texts, which are often scams after disasters.",
+    "topic": "Donated goods and volunteer coordination",
+    "tier": "tier_4_long_tail",
+    "style": "grammatical"
+  },
+  {
+    "question": "is my well water safe after the flood",
+    "answer": "No — assume your private well is contaminated until tested. Boil water for drinking/cooking until you can disinfect the well and get it tested. Contact your local environmental health department for a list of state-certified labs, or call 211 for a referral. The CDC recommends testing for total coliform and E. coli before resuming use.",
+    "topic": "Water quality testing after flooding",
+    "tier": "tier_4_long_tail",
+    "style": "terse"
+  },
+  {
+    "question": "how do i no if my contracter is licensed for debri removal",
+    "answer": "Use the CSLB \"Check a License\" tool at cslb.ca.gov or call 1-800-321-CSLB (2752). Contractors performing debris removal must hold a valid California license in the appropriate classification (typically a C-21 demolition or A general engineering license) and carry workers' comp insurance. If you suspect unlicensed work, report it to CSLB's Disaster Help Center.",
+    "topic": "Debris and hazardous material removal",
+    "tier": "tier_2_high_volume",
+    "style": "typo"
+  },
+  {
+    "question": "hi my kids school burned down in the fire and i have no idea when they will go back or where, im freaking out about their education",
+    "answer": "I'm so sorry you're going through this. Your school district will coordinate alternate locations or temporary campuses — contact the district office directly for placement info. The California Department of Education (cde.ca.gov) tracks disaster-affected schools and posts reopening updates. In the meantime, FEMA's Individuals and Households Program can help with child care costs caused by the disaster if you apply at DisasterAssistance.gov or 1-800-621-3362.",
+    "topic": "School closures and re-opening",
+    "tier": "tier_3_moderate",
+    "style": "conversational"
+  },
+  {
+    "question": "How can I find out when my child's school will reopen after the wildfire?",
+    "answer": "Reopening dates are set by your local school district based on building safety inspections and air quality. Check your district's website and sign up for their emergency alert system if available. The California Department of Education (cde.ca.gov) also posts statewide updates on disaster-impacted schools. Local news and 211 can also confirm reopening dates.",
+    "topic": "School closures and re-opening",
+    "tier": "tier_3_moderate",
+    "style": "grammatical"
+  },
+  {
+    "question": "What is FEMA Displacement Assistance and how much is it?",
+    "answer": "Displacement Assistance is a lump-sum payment from FEMA to help you pay for immediate housing — a hotel, staying with family, or any available option — when your home is unlivable due to a declared disaster. The amount is based on a 14-day local lodging rate for your household size. You can apply at DisasterAssistance.gov or 1-800-621-3362, and it's separate from longer-term Rental Assistance.",
+    "topic": "Temporary housing and shelters",
+    "tier": "tier_1_critical",
+    "style": "grammatical"
+  },
+  {
+    "question": "I'm a renter in Altadena and lost everything in the fire, do I even have insurance options?",
+    "answer": "If you had renters insurance, file a claim with that company right away — it should cover your personal belongings and Additional Living Expenses (ALE) for temporary housing. If you didn't have renters insurance, you're not out of options: apply to FEMA at DisasterAssistance.gov or 1-800-621-3362 for rental and personal property assistance, and consider an SBA disaster loan for renters at sba.gov/disaster. Local nonprofits and 211 can also connect you with immediate help.",
+    "topic": "Filing insurance claims after a disaster",
+    "tier": "tier_1_critical",
+    "style": "personal_context"
+  },
+  {
+    "question": "landlord wants to raise rent after fire repairs",
+    "answer": "After a state of emergency is declared, California's anti-price-gouging law (Penal Code 396) caps rent increases at 10% above pre-disaster rent for at least 30 days, and often longer when extended by the Governor. Raising rent above that, or evicting to re-rent at a higher price, is illegal. Report violations to the California Attorney General at oag.ca.gov or your local DA's office.",
+    "topic": "Renter rights and protections after disaster damage",
+    "tier": "tier_3_moderate",
+    "style": "terse"
+  },
+  {
+    "question": "what if i already applied but havent heard back",
+    "answer": "FEMA typically responds within about 10 days after a home inspection. Check your status anytime by logging in at DisasterAssistance.gov or calling 1-800-621-3362. Make sure FEMA has your current phone number and address, and watch for letters or calls from inspectors — missing one can delay your case.",
+    "topic": "How to apply for disaster aid (eligibility, deadlines)",
+    "tier": "tier_1_critical",
+    "style": "follow_up"
+  },
+  {
+    "question": "can i use my ebt card if i lost food in the power outage",
+    "answer": "Yes — if you lost food due to a power outage or disaster, you can request CalFresh replacement benefits. Report the loss to your county social services office within 10 days of the disaster. You'll need to fill out a CF 303 form stating what was lost. Some counties allow mass replacements after declared disasters without individual forms.",
+    "topic": "Food and water assistance (CalFresh, food banks)",
+    "tier": "tier_2_high_volume",
+    "style": "terse"
+  },
+  {
+    "question": "insurance adjuster lowballed me what do i do",
+    "answer": "You don't have to accept the first offer. Get your own repair estimates from licensed contractors, document why the adjuster's figures are too low, and submit a written request for re-inspection or reconsideration. You can also hire a public adjuster (who works for you, not the insurer) or file a complaint with the California Department of Insurance at 1-800-927-4357. For large losses, a disaster insurance attorney may also help — many offer free consultations.",
+    "topic": "Filing insurance claims after a disaster",
+    "tier": "tier_1_critical",
+    "style": "follow_up"
+  },
+  {
+    "question": "Hi, my family and I just evacuated and we're sitting in our car in a parking lot. We have nowhere to go tonight and a little money but not enough for a hotel, what do we do?",
+    "answer": "I'm sorry you're going through this. First, call 211 right now — they can direct you to the nearest open emergency shelter that has space tonight and can sometimes arrange transportation. If a federal disaster has been declared, apply for FEMA assistance at DisasterAssistance.gov or 1-800-621-3362 and ask about Displacement Assistance, which is upfront money you can use for a hotel. The American Red Cross (1-800-733-2767) also opens shelters during California disasters.",
+    "topic": "Temporary housing and shelters",
+    "tier": "tier_1_critical",
+    "style": "conversational"
+  },
+  {
+    "question": "Does California's Franchise Tax Board also extend state tax deadlines after a disaster?",
+    "answer": "Yes. The California Franchise Tax Board (FTB) typically conforms to IRS disaster relief and extends state filing and payment deadlines to match. For the 2025 wildfires, the FTB postponed California state tax deadlines to October 15, 2025 for affected counties. Check ftb.ca.gov/disaster for the latest list of covered counties and deadlines.",
+    "topic": "Tax filing extensions and disaster tax relief",
+    "tier": "tier_2_high_volume",
+    "style": "grammatical"
+  },
+  {
+    "question": "I'm undocumented and renting in LA county, my place flooded — can I still get help without risking anything?",
+    "answer": "Yes, you have rights regardless of immigration status. California law protects all tenants, and your landlord cannot retaliate or threaten to report you. While FEMA cash assistance requires a household member with eligible immigration status (a U.S. citizen child counts), you can access Red Cross aid, local nonprofit help, food, shelter, and Disaster Legal Services without any status check. Call 211 for confidential local resources, and contact CHIRLA or a local immigrant rights group for tenant help.",
+    "topic": "Renter rights and protections after disaster damage",
+    "tier": "tier_3_moderate",
+    "style": "personal_context"
+  },
+  {
+    "question": "how much downpayment can a contracter legaly ask for in califrnia",
+    "answer": "Under California law, a contractor cannot ask for more than 10% of the total contract price OR $1,000 — whichever is LESS — as a down payment. Anyone demanding more is violating the law. Report them to CSLB at 1-800-321-CSLB (2752) or through the Disaster Help Center at cslb.ca.gov.",
+    "topic": "Contractor licensing and avoiding post-disaster fraud",
+    "tier": "tier_3_moderate",
+    "style": "typo"
+  },
+  {
+    "question": "my dad uses oxygen at home and the power is out where can we go",
+    "answer": "Go to a county-designated Medical Shelter or a Care and Reception Center — call 211 right now and tell them he's oxygen-dependent, they'll direct you to the closest one. Many utilities (PG&E, SCE, SDG&E) also run Community Resource Centers with power during outages. If his oxygen runs low before you get there, call 911 — they can transport and provide oxygen.",
+    "topic": "Medical needs, prescriptions, and hospital access",
+    "tier": "tier_3_moderate",
+    "style": "terse"
+  },
+  {
+    "question": "how long is the tax extention for california wildfire victims",
+    "answer": "For taxpayers affected by the January 2025 California wildfires, the IRS postponed various federal tax deadlines until October 15, 2025. This covers individual returns, business returns, quarterly estimated payments, and payroll tax deposits originally due during the relief period. Check IRS notice CA-2025-01 at irs.gov for the full list.",
+    "topic": "Tax filing extensions and disaster tax relief",
+    "tier": "tier_2_high_volume",
+    "style": "typo"
+  },
+  {
+    "question": "What's the deadline to file a Proof of Loss with NFIP?",
+    "answer": "Under standard NFIP rules, you must submit a signed and sworn Proof of Loss within 60 days of the flood, though FEMA frequently extends this deadline after major disasters. Your adjuster usually helps prepare it, but the policyholder is ultimately responsible for filing it. Check with your carrier or floodsmart.gov for any current extensions tied to your disaster declaration.",
+    "topic": "Flood insurance and NFIP claims",
+    "tier": "tier_3_moderate",
+    "style": "grammatical"
+  },
+  {
+    "question": "do i need a permit to rebuild my house after the fire",
+    "answer": "Yes, you'll need building permits from your local city or county planning department before rebuilding. Many California jurisdictions have set up expedited 'one-stop' permit centers after recent disasters (like the LA County Rebuild Permitting Office for fire survivors). Contact your local building department to ask about fee waivers and streamlined review for disaster rebuilds. Call 211 if you need help finding your local permit office.",
+    "topic": "Long-term recovery: rebuilding permits and zoning",
+    "tier": "tier_4_long_tail",
+    "style": "terse"
+  },
+  {
+    "question": "hi my husband doesn't have papers but i'm a citizen and our kids too, we lost everything in the fire, can we still apply for fema without putting him at risk?",
+    "answer": "Yes — as a U.S. citizen you can apply for FEMA for your household, and your citizen children also qualify. FEMA does not share applicant information with immigration enforcement for the purpose of immigration action. Only list yourself or your kids as the applicant; your husband's status does not need to be disclosed. You can register at DisasterAssistance.gov or by calling 1-800-621-3362.",
+    "topic": "Resources for undocumented / mixed-status families",
+    "tier": "tier_4_long_tail",
+    "style": "conversational"
+  },
+  {
+    "question": "how do i check if a contractor is licensed in ca",
+    "answer": "Use the CSLB's free 'Check a License' tool at cslb.ca.gov. You can search by license number, business name, or personal name to verify the license is active, in the right classification, and has workers' comp insurance. Never hire anyone who can't show you a valid license — unlicensed contractors are common after disasters.",
+    "topic": "Contractor licensing and avoiding post-disaster fraud",
+    "tier": "tier_3_moderate",
+    "style": "terse"
+  },
+  {
+    "question": "I'm undocumented and I got burned helping a neighbor, can I go to the hospital without getting in trouble?",
+    "answer": "Yes — emergency rooms in California must treat you regardless of immigration status, and hospitals do not ask about or report immigration status. Emergency Medi-Cal covers ER care for people who would otherwise qualify, regardless of status. Please get treatment; burns can get serious fast. Community clinics and 211 can also help connect you to low-cost follow-up care.",
+    "topic": "Medical needs, prescriptions, and hospital access",
+    "tier": "tier_3_moderate",
+    "style": "personal_context"
+  },
+  {
+    "question": "my house burned down do i still have to pay my electric bill",
+    "answer": "No — contact your utility right away to stop billing on the destroyed property and ask about their disaster relief program. They can suspend charges, waive fees, and help transfer service if you're staying somewhere temporary. PG&E: 1-800-743-5000, SCE: 1-800-655-4555, SDG&E: 1-800-411-7343. If you have trouble getting a fair resolution, file a complaint with the CPUC at cpuc.ca.gov/consumer-support.",
+    "topic": "Power/utility restoration and outage reporting",
+    "tier": "tier_2_high_volume",
+    "style": "personal_context"
+  },
+  {
+    "question": "are schools closed tomorrow",
+    "answer": "School closure decisions are made by your local school district, not by FEMA or the state. Check your district's website, social media, or local news for the most current information. You can also call 211 (or visit 211.org) for updates on closures in your area.",
+    "topic": "School closures and re-opening",
+    "tier": "tier_3_moderate",
+    "style": "terse"
+  },
+  {
+    "question": "How long does FEMA take to decide on an appeal?",
+    "answer": "FEMA typically decides appeals within 30 days of receiving them, but it can take up to 90 days. If they need more information, they'll contact you. You'll get the decision in writing — either by mail or in your DisasterAssistance.gov account.",
+    "topic": "FEMA appeals process",
+    "tier": "tier_3_moderate",
+    "style": "grammatical"
+  },
+  {
+    "question": "my husband is a farmer and lost everything in the flood he wont eat or get out of bed im scared",
+    "answer": "Please take this seriously — withdrawal and not eating after a major loss can signal severe depression. Call 988 (Suicide & Crisis Lifeline) now to talk with someone who can help you figure out next steps; press 1 for the Veterans line if that applies. The Farm Aid hotline (1-800-FARM-AID) also offers crisis support specifically for farm families. If he talks about hurting himself or you can't wake him, call 911.",
+    "topic": "Mental health and emotional support after a disaster",
+    "tier": "tier_3_moderate",
+    "style": "personal_context"
+  },
+  {
+    "question": "whats the differnce between fema and sba loan",
+    "answer": "FEMA provides grants (money you don't pay back) for urgent needs like temporary housing, basic repairs, and essential items — but amounts are limited. SBA offers low-interest disaster loans (up to $500,000 for homes, $100,000 for personal property, more for businesses) to cover the rest. FEMA usually refers you to SBA automatically; you should complete the SBA application even if you don't want a loan, because it can unlock more FEMA grant money.",
+    "topic": "How to apply for disaster aid (eligibility, deadlines)",
+    "tier": "tier_1_critical",
+    "style": "typo"
+  },
+  {
+    "question": "Is there a way to get a backup battery or generator through my utility?",
+    "answer": "PG&E's Portable Battery Program offers free or discounted portable batteries to Medical Baseline customers in high fire-threat areas. SCE and SDG&E have similar Critical Care Backup Battery programs. Contact your utility to check eligibility, and also ask about the Self-Generation Incentive Program (SGIP), which offers rebates for home battery systems through the CPUC.",
+    "topic": "Power/utility restoration and outage reporting",
+    "tier": "tier_2_high_volume",
+    "style": "grammatical"
+  },
+  {
+    "question": "Hi, we evacuated during the wildfires and now back home but my kids (8 and 11) are having nightmares and don't want to sleep alone, is this normal and what can I do to help them?",
+    "answer": "Yes, nightmares and clinginess are very normal reactions for children after a disaster — it usually improves with time and support. Try keeping bedtime routines consistent, letting them sleep closer to you temporarily, talking openly about what happened in age-appropriate ways, and limiting exposure to disaster news. FEMA's Crisis Counseling Program offers free confidential support — call the Disaster Distress Helpline at 1-800-985-5990 or text TalkWithUs to 66746. If nightmares persist beyond a month or worsen, reach out to their pediatrician or a child therapist.",
+    "topic": "Emotional support for children after a disaster",
+    "tier": "tier_4_long_tail",
+    "style": "conversational"
+  },
+  {
+    "question": "my neighbor is burning debris in his yard is that allowed",
+    "answer": "Open burning of fire debris is generally prohibited because the ash contains toxic materials like asbestos, lead, and heavy metals. Report it to your local Air Quality Management District and the county environmental health department. You can also call CAL FIRE if there's a fire safety concern.",
+    "topic": "Debris and hazardous material removal",
+    "tier": "tier_2_high_volume",
+    "style": "terse"
+  },
+  {
+    "question": "I'm a small business owner in Altadena, my shop was destroyed. Does the tax extension cover my quarterly estimated taxes and payroll taxes too?",
+    "answer": "Yes. The California wildfire relief covers individual and business returns, quarterly estimated tax payments, payroll and excise tax returns, and tax-exempt organization filings due during the relief period — all postponed to October 15, 2025. Payroll deposits due in the first days after the disaster also got penalty abatement. Call the IRS at 1-866-562-5227 to make sure your business is flagged for relief.",
+    "topic": "Tax filing extensions and disaster tax relief",
+    "tier": "tier_2_high_volume",
+    "style": "personal_context"
+  },
+  {
+    "question": "can i get fema if im undocumented",
+    "answer": "FEMA cash assistance generally requires at least one household member to be a U.S. citizen, non-citizen national, or qualified non-citizen — but a child with a Social Security number can apply on behalf of the whole family. Even without FEMA, you may qualify for help from the Red Cross, 211, local nonprofits, and the CA Disaster Relief Assistance for Immigrants (when activated). Call 211 to find immigrant-friendly recovery services in your county.",
+    "topic": "Resources for undocumented / mixed-status families",
+    "tier": "tier_4_long_tail",
+    "style": "terse"
+  },
+  {
+    "question": "do i get my security depsoit back if the buildng was destroyd",
+    "answer": "Yes — if your rental was destroyed or made uninhabitable by a disaster, your landlord must return your security deposit, minus any lawful deductions unrelated to the disaster damage. They generally have 21 days from when you vacate. Send a written request with your forwarding address. If they refuse, you can file in small claims court or get free help through Disaster Legal Services by calling 211.",
+    "topic": "Renter rights and protections after disaster damage",
+    "tier": "tier_3_moderate",
+    "style": "typo"
+  },
+  {
+    "question": "how do i file insurance claim after fire",
+    "answer": "Call your insurance company's claims hotline as soon as possible to start your claim. Take photos and video of all damage before cleaning up, and make a list of damaged or destroyed items with approximate values. Keep receipts for any temporary lodging or emergency repairs — most policies reimburse these under Additional Living Expenses (ALE). If you need help, contact the California Department of Insurance at 1-800-927-4357.",
+    "topic": "Filing insurance claims after a disaster",
+    "tier": "tier_1_critical",
+    "style": "terse"
+  },
+  {
+    "question": "how long do i have to aply for disater unemploment",
+    "answer": "You generally have 30 days from the date DUA is announced for your disaster area to file your claim. Don't wait — apply as soon as possible through myEDD or by calling EDD at 1-800-300-5616. If you miss the deadline due to a good reason related to the disaster, explain that when you apply.",
+    "topic": "Disaster unemployment assistance (DUA)",
+    "tier": "tier_1_critical",
+    "style": "typo"
+  },
+  {
+    "question": "What documents do I need to apply for FEMA?",
+    "answer": "Have ready: your Social Security number, current phone and mailing address, address of the damaged home, a brief description of damage, insurance information (policy number/company), household income, and a bank account/routing number for direct deposit. You don't need every document to start — apply right away at DisasterAssistance.gov or 1-800-621-3362 and submit additional documents later.",
+    "topic": "How to apply for disaster aid (eligibility, deadlines)",
+    "tier": "tier_1_critical",
+    "style": "grammatical"
+  },
+  {
+    "question": "can my kid enroll in a diffrent school while ours is closed",
+    "answer": "Yes. Under California's McKinney-Vento Act and AB 490, students displaced by disaster qualify as homeless/displaced and can immediately enroll in any school in the area they're staying — even without usual paperwork like proof of residency or records. Contact the new district's homeless liaison or registrar to enroll right away.",
+    "topic": "School closures and re-opening",
+    "tier": "tier_3_moderate",
+    "style": "typo"
+  },
+  {
+    "question": "who cleans up burned house debris",
+    "answer": "In California, CalRecycle runs the state debris removal program for state and federally-declared disasters. They work with Cal OES and local governments to remove contaminated debris from your property at no out-of-pocket cost. You'll need to sign a Right-of-Entry form with your county to opt in — check with your local recovery office for deadlines.",
+    "topic": "Debris and hazardous material removal",
+    "tier": "tier_2_high_volume",
+    "style": "terse"
+  },
+  {
+    "question": "I run a small family farm co-op in Sonoma and we lost crops and equipment in the disaster. Are we eligible for SBA help?",
+    "answer": "Yes, small agricultural cooperatives are explicitly eligible for SBA Economic Injury Disaster Loans (EIDL), and you can also apply for a Physical Disaster Loan to cover damaged equipment and structures — the two combined can total up to $2 million. Note that individual farms (not co-ops) typically go through USDA Farm Service Agency programs instead. Call SBA at 800-659-2955 to confirm your eligibility and start the application.",
+    "topic": "Small business recovery",
+    "tier": "tier_3_moderate",
+    "style": "personal_context"
+  },
+  {
+    "question": "my elderly mom lives in pacific palisades and lost her home, she's never used a computer how does she get tax help",
+    "answer": "She can call the IRS Disaster Assistance Hotline at 1-866-562-5227 to speak with a live agent who can flag her account for relief and answer questions. She can also visit a local IRS Taxpayer Assistance Center in person (call 1-844-545-5640 to schedule) or get free help from VITA volunteers at 211. Bring any tax records she has, even partial ones — the IRS can provide free transcripts of past returns.",
+    "topic": "Tax filing extensions and disaster tax relief",
+    "tier": "tier_2_high_volume",
+    "style": "personal_context"
+  },
+  {
+    "question": "i have a bunch of canned food and baby suplies to donate where do they go",
+    "answer": "Thanks for wanting to help! Please don't bring goods directly to shelters or burn zones — they often can't store or sort them. Call 211 or visit 211ca.org to find a local food bank or family resource center accepting those specific items. Baby supplies are often needed at Baby2Baby (baby2baby.org) and local diaper banks. Call ahead before dropping off so you know what they currently need.",
+    "topic": "Donated goods and volunteer coordination",
+    "tier": "tier_4_long_tail",
+    "style": "typo"
+  },
+  {
+    "question": "can i bring my dog to the shelter",
+    "answer": "Many California disaster shelters are pet-friendly or have a co-located animal shelter nearby, but not all. Call 211 before you go to confirm pet policies. Bring a leash, carrier, food, vaccination records, and any medications if possible. County animal services and the Humane Society often set up emergency pet shelters during major disasters.",
+    "topic": "Temporary housing and shelters",
+    "tier": "tier_1_critical",
+    "style": "terse"
+  },
+  {
+    "question": "hi so our whole neighborhood has been without internet and phone for like 5 days since the storm and my elderly mom needs to reach her doctor and i also need to file insurance stuff, is anyone doing anything about this or where can we go?",
+    "answer": "I'm sorry you're dealing with this. A few things that can help: (1) Call 211 (or visit 211.org) to find nearby Disaster Recovery Centers, libraries, or community sites offering free Wi-Fi and phones. (2) Carriers like AT&T, Verizon, and T-Mobile often waive fees and set up mobile cell sites (COWs) after disasters — check their outage maps and disaster response pages. (3) You can file a complaint or get help with your phone/internet provider through the CPUC at cpuc.ca.gov/consumer-support or 1-800-649-7570. For your mom's medical needs, if it's urgent call 911; otherwise many pharmacies and clinics have landlines you can use.",
+    "topic": "Internet, phone, and communications outages",
+    "tier": "tier_4_long_tail",
+    "style": "conversational"
+  },
+  {
+    "question": "What documents do I need to apply for FEMA assistance?",
+    "answer": "You'll need your Social Security number, current and pre-disaster address, a phone number, insurance information, total household annual income, a bank account for direct deposit, and a description of the damage. Having these ready will speed up your application at DisasterAssistance.gov or 1-800-621-3362.",
+    "topic": "FEMA registration and individual assistance",
+    "tier": "tier_1_critical",
+    "style": "grammatical"
+  },
+  {
+    "question": "I'm a farmworker in Ventura County and the fields I work at got destroyed. My boss said no more work. Can I get help?",
+    "answer": "Yes, you may qualify for Disaster Unemployment Assistance (DUA) if your county is in a federally declared disaster area. Farmworkers and seasonal workers are commonly covered. Apply through myEDD or call EDD at 1-800-300-5616 (Spanish available). Bring or be ready to provide proof of your recent earnings, like pay stubs or a letter from your employer.",
+    "topic": "Disaster unemployment assistance (DUA)",
+    "tier": "tier_1_critical",
+    "style": "personal_context"
+  },
+  {
+    "question": "do i still have to file taxes by april 15 if my house burned down",
+    "answer": "No. If you live in a federally declared California wildfire disaster area, the IRS has automatically postponed your filing and payment deadlines — for the 2025 California wildfires, deadlines were extended to October 15, 2025. You don't need to apply; the IRS uses your address on file. Check irs.gov/disaster-relief for your specific deadline.",
+    "topic": "Tax filing extensions and disaster tax relief",
+    "tier": "tier_2_high_volume",
+    "style": "terse"
+  },
+  {
+    "question": "My elderly mom uses a wheelchair and we need a shelter that can accommodate her, where do we go?",
+    "answer": "Call 211 and tell them about her accessibility needs — they'll direct you to an ADA-accessible shelter or a functional-and-access-needs shelter, which has medical staff and accessible bathrooms/cots. If she has medical equipment, mention that too. You can also call your county Office of Emergency Services. For longer-term housing, FEMA offers Accessibility-related repair assistance through DisasterAssistance.gov.",
+    "topic": "Temporary housing and shelters",
+    "tier": "tier_1_critical",
+    "style": "personal_context"
+  },
+  {
+    "question": "what if i already applied for calfresh but havent heard anything",
+    "answer": "Log in to BenefitsCal.com to check your case status, or call your county social services office directly. If it's been more than 30 days (or 3 days for expedited service) with no response, ask for a supervisor. You can also call 2-1-1 for help following up. Make sure they have your current phone number since they may have tried to reach you for an interview.",
+    "topic": "Food and water assistance (CalFresh, food banks)",
+    "tier": "tier_2_high_volume",
+    "style": "follow_up"
+  },
+  {
+    "question": "what documents do i need to send with my appeal",
+    "answer": "It depends on why you're appealing. For more home repair money: send contractor estimates, repair receipts, and photos of damage. For housing assistance: send proof of occupancy (lease, utility bill) or ownership (deed, tax bill). For denied identity verification: send a government ID and Social Security documentation. Your FEMA letter lists the specific documents needed for your case — and remember to put your FEMA application and disaster numbers on every page.",
+    "topic": "FEMA appeals process",
+    "tier": "tier_3_moderate",
+    "style": "terse"
+  },
+  {
+    "question": "what if i already filed an extension before the fires happened",
+    "answer": "You're still covered. The disaster relief gives you additional time beyond your original extension — but note that the postponement applies to filing, not to payments that were already due before the disaster declaration. If you owe and missed the original payment, contact the IRS to discuss penalty abatement under the disaster provisions.",
+    "topic": "Tax filing extensions and disaster tax relief",
+    "tier": "tier_2_high_volume",
+    "style": "follow_up"
+  },
+  {
+    "question": "I'm 74 and live alone in Altadena, my house is gone and I don't really use computers, how do I get FEMA help?",
+    "answer": "You can apply for FEMA assistance by phone — call 1-800-621-3362, available 7 a.m. to 11 p.m. local time, with multilingual support. You can also visit a Disaster Recovery Center in person where staff will help you apply and answer questions; call 211 to find the nearest one. If mobility is an issue, ask 211 about senior services and Red Cross caseworkers who can help in person.",
+    "topic": "Wildfire-specific recovery steps",
+    "tier": "tier_2_high_volume",
+    "style": "personal_context"
+  },
+  {
+    "question": "I'm a 72-year-old widow and my house was damaged in the fire. I don't really understand loans and I'm scared of taking on debt at my age. Are there other options?",
+    "answer": "That's a very reasonable concern. You're not required to accept an SBA loan even if approved — but it's worth applying, because being denied by SBA can unlock additional FEMA grant assistance (which doesn't have to be repaid). SBA loans also have low interest, no payments for 12 months, and you can decline the loan after approval. Call FEMA at 1-800-621-3362 or visit a Disaster Recovery Center for free in-person help walking through your options.",
+    "topic": "SBA disaster loans for homeowners and businesses",
+    "tier": "tier_2_high_volume",
+    "style": "personal_context"
+  },
+  {
+    "question": "Hi, I'm self-employed and I do landscaping work but all my clients' yards burned and nobody is hiring me right now. I heard regular unemployment doesn't cover self-employed people, is there anything I can apply for?",
+    "answer": "Yes — Disaster Unemployment Assistance (DUA) is specifically designed for self-employed workers and others who don't qualify for regular unemployment. If the President has declared a disaster in your area, you can apply through myEDD or by calling 1-800-300-5616. Have proof of your self-employment income (tax returns, 1099s, invoices) ready, since EDD will ask for it to calculate your benefit.",
+    "topic": "Disaster unemployment assistance (DUA)",
+    "tier": "tier_1_critical",
+    "style": "conversational"
+  },
+  {
+    "question": "Does the IRS give farmers extra time to file taxes after a drought?",
+    "answer": "Yes. The IRS regularly extends the deadline for farmers and ranchers to replace livestock sold due to drought (under IRC §1033(e)), giving you more time before having to recognize capital gains. In 2025, the IRS extended this relief to farmers and ranchers in 49 states (IR-2025-93). Your tax filing deadline may also be postponed if your county is in a federally declared disaster area — check irs.gov/disaster for the current list.",
+    "topic": "Agricultural disaster relief for farmers",
+    "tier": "tier_4_long_tail",
+    "style": "grammatical"
+  },
+  {
+    "question": "I'm a farmworker in Sonoma County and my truck is how I get to the fields every day, it got destroyed when the fire came through. I don't have papers but my truck was registered. Can I still get help?",
+    "answer": "You may still qualify for help. FEMA requires at least one household member to have eligible immigration status (including a U.S. citizen child), but California also has state programs that don't require status — call 211 or visit a Local Assistance Center for referrals. Nonprofits like Catholic Charities and UndocuFund often provide direct cash assistance for vehicle replacement after disasters. Also check with your auto insurance regardless of status, since the policy itself is what matters for a claim.",
+    "topic": "Replacing a car or vehicle damaged in disaster",
+    "tier": "tier_4_long_tail",
+    "style": "personal_context"
+  },
+  {
+    "question": "i already applied but didnt mention im blind does that change anything",
+    "answer": "Yes, it can — please update FEMA. Call the Helpline at 1-800-621-3362 and tell them you have a disability and need to add accommodations to your file. They can resend your decision letter in an accessible format (large print, Braille, audio, or email), assign a Disability Integration Advisor, and make sure any home inspection or follow-up communication works for you. If you were denied, you have 60 days from your letter to appeal, and lack of accessible communication can be grounds to revisit your case.",
+    "topic": "Seniors and people with disabilities — special assistance",
+    "tier": "tier_4_long_tail",
+    "style": "follow_up"
+  },
+  {
+    "question": "house burned down what do i do first",
+    "answer": "First, make sure you and your family are safe and have shelter — call 211 for emergency shelter, food, and local disaster services. Then register with FEMA at 1-800-621-3362 or DisasterAssistance.gov, and contact your insurance company to start a claim. Do NOT re-enter your property until local officials say it's safe, and don't touch the ash — it's toxic.",
+    "topic": "Wildfire-specific recovery steps",
+    "tier": "tier_2_high_volume",
+    "style": "terse"
+  },
+  {
+    "question": "I'm a senior living alone in Sonoma County and PG&E shut off my power for a PSPS, do I get any help?",
+    "answer": "Yes — if you're on PG&E's Medical Baseline Program or self-identify as having access/functional needs, you may qualify for the Disability Disaster Access & Resources (DDAR) program, which can provide backup batteries, hotel stays, food replacement, or transportation during PSPS events. Call PG&E at 1-800-743-5000 to enroll in Medical Baseline, and contact your local Independent Living Center or 211 for DDAR help. Sonoma County also opens Community Resource Centers during PSPS with power, water, and Wi-Fi.",
+    "topic": "Power/utility restoration and outage reporting",
+    "tier": "tier_2_high_volume",
+    "style": "personal_context"
+  },
+  {
+    "question": "My landlord won't let me back in to get my belongings after the fire, what can I do?",
+    "answer": "Tenants have a legal right to access their belongings even after a disaster, as long as the building is safe to enter. Send your landlord a written request (text or email is fine) for a specific time to retrieve items. If they continue to refuse, that may be an illegal lockout under Civil Code 789.3 — you can call local law enforcement for a civil standby, or contact Disaster Legal Services through 211 for free legal help.",
+    "topic": "Renter rights and protections after disaster damage",
+    "tier": "tier_3_moderate",
+    "style": "grammatical"
+  },
+  {
+    "question": "my house didnt burn but theres smoke damage everywhere is that covered",
+    "answer": "Yes — smoke, soot, and ash damage are typically covered under standard homeowners policies, even if the structure didn't burn. File a claim right away and document everything with photos. Don't try to clean it yourself; professional smoke remediation is usually covered and improper cleaning can make things worse. Also keep any items you've had to replace (food, HVAC filters, etc.) on your claim list.",
+    "topic": "Filing insurance claims after a disaster",
+    "tier": "tier_1_critical",
+    "style": "typo"
+  },
+  {
+    "question": "I'm 72 and I'm not great with computers — can someone help me file my appeal in person?",
+    "answer": "Yes, you can take your appeal documents in person to a Disaster Recovery Center (DRC), where staff can help you submit them. To find the nearest DRC, call the FEMA Helpline at 1-800-621-3362 or visit DisasterAssistance.gov and use the DRC Locator. Bring your FEMA letter, your application number, and any documents supporting your appeal (repair estimates, receipts, etc.).",
+    "topic": "FEMA appeals process",
+    "tier": "tier_3_moderate",
+    "style": "personal_context"
+  },
+  {
+    "question": "hi we've been without power for almost 3 days now after the storm and my husband uses an oxygen machine, is there anything we can do?",
+    "answer": "Please call 911 or go to the nearest ER if his oxygen is running low — this is a medical emergency. Then contact your utility and ask to be added to their Medical Baseline Program, which flags your address for priority restoration and extra outage notifications (PG&E: 1-800-743-5000; SCE: 1-800-655-4555; SDG&E: 1-800-411-7343). Many counties also open cooling/charging centers during long outages — call 211 to find the closest one.",
+    "topic": "Power/utility restoration and outage reporting",
+    "tier": "tier_2_high_volume",
+    "style": "conversational"
+  },
+  {
+    "question": "my parents are scared to go to the shelter because of ICE, is it safe?",
+    "answer": "Disaster shelters in California do not ask about immigration status, and ICE has a long-standing policy of not conducting enforcement at shelters or disaster relief sites. Red Cross and county shelters serve everyone regardless of status, and California's SB 54 limits local cooperation with immigration enforcement. If they feel safer, they can also seek shelter through trusted community organizations — call 211 for a list in your area.",
+    "topic": "Resources for undocumented / mixed-status families",
+    "tier": "tier_4_long_tail",
+    "style": "personal_context"
+  }
+]
