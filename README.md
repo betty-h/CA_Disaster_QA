@@ -89,8 +89,4 @@ python3 evaluate_qa.py --predictions predictions.jsonl
 | Follow-up | `i missed the fema inspector when they came by what happens now` |
 | Conversational | `hi um i've been having really bad nightmares ever since we evacuated and i can't sleep` |
 
----
 
-## Files to Keep Out of Version Control
-
-`.env` — contains the Anthropic API key. Add to `.gitignore` before committing.
