@@ -1,7 +1,5 @@
 # Q&A Dataset Generation Pipeline for CA Disaster Recovery
 
-I <3 Claude Code
-
 A pipeline for building and evaluating a benchmark dataset of question-answer pairs for a California disaster recovery chatbot. Questions are ecologically valid — reflecting how real people type under stress — and cover 34 topics across the full query distribution from high-volume (FEMA registration, housing) to long-tail (livestock, undocumented families, mold remediation). See `pipeline_overview.md` within the reports folder for details. Below are descriptions of the files in this repo.
 
 ---
