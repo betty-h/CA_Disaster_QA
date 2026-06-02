@@ -56,6 +56,30 @@ python3 evaluate_qa.py --predictions predictions.jsonl
 
 ---
 
+## GPT Evaluation
+
+Results from running GPT-4o-mini on the 306 questions and scoring the answers with the Claude Opus judge.
+
+| File | Description |
+|---|---|
+| `run_gpt.py` | Inference script — reads `qa_pairs.json`, sends each question to a GPT model, saves answers to `predictions.jsonl`. |
+| `predictions.jsonl` | GPT-4o-mini's answers to all 306 questions, one JSON object per line. |
+| `eval_results.json` | Per-pair evaluation scores with rationales + aggregate statistics. |
+| `gpt_eval_report.md` | Human-readable evaluation summary with scores by tier and question style. |
+
+To reproduce:
+```bash
+export OPENAI_API_KEY=sk-...
+export ANTHROPIC_API_KEY=sk-ant-...
+python3 gpt_eval/run_gpt.py --model gpt-4o-mini
+python3 scripts/evaluate_qa.py \
+  --predictions gpt_eval/predictions.jsonl \
+  --gold data/qa_pairs.json \
+  --output-prefix gpt_eval/eval
+```
+
+---
+
 ## Dataset at a Glance
 
 | Property | Value |

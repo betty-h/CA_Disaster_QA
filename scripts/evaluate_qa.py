@@ -17,8 +17,10 @@ Input files
 
 Output files
 ------------
-  eval_results.json    : per-pair scores + aggregates
-  eval_report.md       : human-readable summary
+  eval_results.json      : per-pair scores + aggregates (written at end)
+  eval_report.md         : human-readable summary (written at end)
+  eval_progress.jsonl    : one result per line, written immediately after each
+                           pair is scored — used to resume interrupted runs
 
 Usage
 -----
@@ -400,53 +402,73 @@ def main():
     if args.max_pairs:
         predictions = predictions[: args.max_pairs]
 
-    log.info(f"Evaluating {len(predictions)} pairs with model: {args.model}")
+    # ── Resume support: load already-scored questions from progress file ──────
+    progress_path = Path(f"{args.output_prefix}_progress.jsonl")
+    results: list[dict] = []
+    already_done: set[str] = set()
 
-    results = []
+    if progress_path.exists():
+        with open(progress_path, encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if line:
+                    record = json.loads(line)
+                    results.append(record)
+                    already_done.add(record["question"])
+        log.info(f"Resuming — loaded {len(already_done)} already-scored pairs from {progress_path}")
+
+    remaining = [p for p in predictions if p.get("question", "").strip() not in already_done]
+    log.info(f"Evaluating {len(remaining)} remaining pairs (of {len(predictions)} total) with model: {args.model}")
+
     failed_lookup = 0
 
-    for i, pred in enumerate(predictions, 1):
-        q = pred.get("question", "").strip()
-        candidate = pred.get("answer", "").strip()
+    with open(progress_path, "a", encoding="utf-8") as progress_file:
+        for i, pred in enumerate(remaining, 1):
+            q = pred.get("question", "").strip()
+            candidate = pred.get("answer", "").strip()
 
-        gold_pair = gold_map.get(q)
-        if gold_pair is None:
-            # Fuzzy fallback: try prefix match (handles minor whitespace diffs)
-            for gq, gp in gold_map.items():
-                if gq.strip().lower() == q.lower():
-                    gold_pair = gp
-                    break
+            gold_pair = gold_map.get(q)
+            if gold_pair is None:
+                # Fuzzy fallback: try prefix match (handles minor whitespace diffs)
+                for gq, gp in gold_map.items():
+                    if gq.strip().lower() == q.lower():
+                        gold_pair = gp
+                        break
 
-        if gold_pair is None:
-            log.warning(f"[{i}] No gold match for question: {q[:60]}…")
-            failed_lookup += 1
-            continue
+            if gold_pair is None:
+                log.warning(f"[{i}] No gold match for question: {q[:60]}…")
+                failed_lookup += 1
+                continue
 
-        gold_answer = gold_pair["answer"]
-        log.info(f"[{i}/{len(predictions)}] Evaluating: {q[:60]}…")
+            gold_answer = gold_pair["answer"]
+            log.info(f"[{i}/{len(remaining)}] Evaluating: {q[:60]}…")
 
-        eval_result = evaluate_pair(
-            client=client,
-            question=q,
-            gold_answer=gold_answer,
-            candidate_answer=candidate,
-            model=args.model,
-        )
+            eval_result = evaluate_pair(
+                client=client,
+                question=q,
+                gold_answer=gold_answer,
+                candidate_answer=candidate,
+                model=args.model,
+            )
 
-        record = {
-            "question":         q,
-            "gold_answer":      gold_answer,
-            "candidate_answer": candidate,
-            "topic":            gold_pair.get("topic", ""),
-            "tier":             gold_pair.get("tier", ""),
-            "style":            gold_pair.get("style", ""),
-            "eval":             eval_result,
-            "weighted_score":   eval_result["weighted_score"] if eval_result else None,
-        }
-        results.append(record)
+            record = {
+                "question":         q,
+                "gold_answer":      gold_answer,
+                "candidate_answer": candidate,
+                "topic":            gold_pair.get("topic", ""),
+                "tier":             gold_pair.get("tier", ""),
+                "style":            gold_pair.get("style", ""),
+                "eval":             eval_result,
+                "weighted_score":   eval_result["weighted_score"] if eval_result else None,
+            }
+            results.append(record)
 
-        if i < len(predictions):
-            time.sleep(args.delay)
+            # Write immediately so progress survives interruption
+            progress_file.write(json.dumps(record, ensure_ascii=False) + "\n")
+            progress_file.flush()
+
+            if i < len(remaining):
+                time.sleep(args.delay)
 
     if failed_lookup:
         log.warning(f"{failed_lookup} predictions had no matching gold question (skipped).")
